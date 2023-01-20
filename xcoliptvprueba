@@ -1,244 +1,1404 @@
 #EXTM3U
 
-#EXTINF:-1,70s Hits
-http://177.234.242.189:50032/play/a03t/index.m3u8
-
-#EXTINF:-1,80s Hits
-http://177.234.242.189:50032/play/a03u/index.m3u8
-
-#EXTINF:-1,AE Mundo
-http://177.234.242.189:50032/play/a03n/index.m3u8
-
-#EXTINF:-1,AXN
-http://177.234.242.189:50032/play/a05w/index.m3u8
-
-#EXTINF:-1,AZ Cinema HD
-http://177.234.242.189:50032/play/a00t/index.m3u8
-
-#EXTINF:-1,America TV PY
-http://177.234.242.189:50032/play/a04k/index.m3u8
-
-#EXTINF:-1,Animal Planet
-http://177.234.242.189:50032/play/a03e/index.m3u8
-
-#EXTINF:-1,Animal Planet HD
-http://177.234.242.189:50032/play/a00x/index.m3u8
-
-#EXTINF:-1,BabyFirst
-http://177.234.242.189:50032/play/a02o/index.m3u8
-
-#EXTINF:-1,CDF HD
-http://177.234.242.189:50032/play/a011/index.m3u8
-
-#EXTINF:-1,CNN Chile
-http://177.234.242.189:50032/play/a02e/index.m3u8
-
-#EXTINF:-1,CNN Espanol
-http://177.234.242.189:50032/play/a02s/index.m3u8
-
-#EXTINF:-1,CNT SPORTS SD
-http://177.234.242.189:50032/play/a06f/index.m3u8
-
-#EXTINF:-1,Canal Claro
-http://177.234.242.189:50032/play/a048/index.m3u8
-
-#EXTINF:-1,Cartoon Network
-http://177.234.242.189:50032/play/a02h/index.m3u8
-
-#EXTINF:-1,Cartoon Network HD
-http://177.234.242.189:50032/play/a00p/index.m3u8
-
-#EXTINF:-1,Cinecanal
-http://177.234.242.189:50032/play/a029/index.m3u8
-
-#EXTINF:-1,Cinecanal HD
-http://177.234.242.189:50032/play/a00g/index.m3u8
-
-#EXTINF:-1,Cinemax
-http://177.234.242.189:50032/play/a05u/index.m3u8
-
-#EXTINF:-1,Claro Cinema
-http://177.234.242.189:50032/play/a065/index.m3u8
-
-#EXTINF:-1,Claro Sports
-http://177.234.242.189:50032/play/a02j/index.m3u8
-
-#EXTINF:-1,Classic Rock
-http://177.234.242.189:50032/play/a03s/index.m3u8
-
-#EXTINF:-1,Discovery Channel
-http://177.234.242.189:50032/play/a03d/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://177.234.242.189:50032/play/a02r/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://177.234.242.189:50032/play/a067/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://177.234.242.189:50032/play/a00f/index.m3u8
-#EXTINF:-1,Disney Channel
-http://177.234.242.189:50032/play/a03c/index.m3u8
-#EXTINF:-1,Disney Jr
-http://177.234.242.189:50032/play/a034/index.m3u8
-#EXTINF:-1,Distrito Comedia
-http://177.234.242.189:50032/play/a06i/index.m3u8
-#EXTINF:-1,E Entertainment
-http://177.234.242.189:50032/play/a03g/index.m3u8
-#EXTINF:-1,ESPN
-http://177.234.242.189:50032/play/a03j/index.m3u8
-#EXTINF:-1,ESPN 2
-http://177.234.242.189:50032/play/a037/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://177.234.242.189:50032/play/a03i/index.m3u8
-#EXTINF:-1,ESPN 3
-http://177.234.242.189:50032/play/a069/index.m3u8
-#EXTINF:-1,ESPN 4
-http://177.234.242.189:50032/play/a04g/index.m3u8
-#EXTINF:-1,ESPN CO
-http://177.234.242.189:50032/play/a07w/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://177.234.242.189:50032/play/a00i/index.m3u8
-#EXTINF:-1,ESPN+ HD
-http://177.234.242.189:50032/play/a012/index.m3u8
-#EXTINF:-1,Ecuador TV
-http://177.234.242.189:50032/play/a04l/index.m3u8
-#EXTINF:-1,Ecuavisa
-http://177.234.242.189:50032/play/a07p/index.m3u8
-#EXTINF:-1,ElCanaldelFutbol SD
-http://177.234.242.189:50032/play/a06u/index.m3u8
-#EXTINF:-1,ElCanaldelFœtbolSD2
-http://177.234.242.189:50032/play/a06g/index.m3u8
-#EXTINF:-1,Enlace
-http://177.234.242.189:50032/play/a02m/index.m3u8
-#EXTINF:-1,Esne TV
-http://177.234.242.189:50032/play/a068/index.m3u8
-#EXTINF:-1,FX
-http://177.234.242.189:50032/play/a05y/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://177.234.242.189:50032/play/a042/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://177.234.242.189:50032/play/a043/index.m3u8
-#EXTINF:-1,France 24
-http://177.234.242.189:50032/play/a047/index.m3u8
-#EXTINF:-1,GOL TV
-http://177.234.242.189:50032/play/a03k/index.m3u8
-#EXTINF:-1,GamaTV
-http://177.234.242.189:50032/play/a04m/index.m3u8
-#EXTINF:-1,Gol TV
-http://177.234.242.189:50032/play/a06t/index.m3u8
-#EXTINF:-1,HBO
-http://177.234.242.189:50032/play/a05t/index.m3u8
-#EXTINF:-1,HBO 2
-http://177.234.242.189:50032/play/a08j/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://177.234.242.189:50032/play/a00v/index.m3u8
-#EXTINF:-1,HBO Family
-http://177.234.242.189:50032/play/a08m/index.m3u8
-#EXTINF:-1,HBO Family
-http://177.234.242.189:50032/play/a033/index.m3u8
-#EXTINF:-1,HBO HD
-http://177.234.242.189:50032/play/a00y/index.m3u8
-#EXTINF:-1,HBO HD
-http://177.234.242.189:50032/play/a00l/index.m3u8
-#EXTINF:-1,HBO POP
-http://177.234.242.189:50032/play/a06n/index.m3u8
-#EXTINF:-1,HBO Plus
-http://177.234.242.189:50032/play/a08k/index.m3u8
-#EXTINF:-1,HBO XTREME SD
-http://177.234.242.189:50032/play/a08l/index.m3u8
-#EXTINF:-1,Hit List
-http://177.234.242.189:50032/play/a085/index.m3u8
-#EXTINF:-1,HomeandHealth
-http://177.234.242.189:50032/play/a04b/index.m3u8
-#EXTINF:-1,Kanal D Drama HD
-http://177.234.242.189:50032/play/a00o/index.m3u8
-#EXTINF:-1,La Redonda TV
-http://177.234.242.189:50032/play/a06x/index.m3u8
-#EXTINF:-1,Latin Pop
-http://177.234.242.189:50032/play/a086/index.m3u8
-#EXTINF:-1,Latino Tropical
-http://177.234.242.189:50032/play/a087/index.m3u8
-#EXTINF:-1,Lifetime
-http://177.234.242.189:50032/play/a02p/index.m3u8
-#EXTINF:-1,Love Music
-http://177.234.242.189:50032/play/a03r/index.m3u8
-#EXTINF:-1,MEGA HD
-http://177.234.242.189:50032/play/a00d/index.m3u8
-#EXTINF:-1,MTV
-http://177.234.242.189:50032/play/a02c/index.m3u8
-#EXTINF:-1,NTV
-http://177.234.242.189:50032/play/a00b/index.m3u8
-#EXTINF:-1,Nat Geo
-http://177.234.242.189:50032/play/a023/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://177.234.242.189:50032/play/a00e/index.m3u8
-#EXTINF:-1,New Age
-http://177.234.242.189:50032/play/a03q/index.m3u8
-#EXTINF:-1,Nick Jr
-http://177.234.242.189:50032/play/a066/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://177.234.242.189:50032/play/a021/index.m3u8
-#EXTINF:-1,OROMAR TV
-http://177.234.242.189:50032/play/a06p/index.m3u8
-#EXTINF:-1,Paramount HD
-http://177.234.242.189:50032/play/a00q/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://177.234.242.189:50032/play/a045/index.m3u8
-#EXTINF:-1,RTS
-http://177.234.242.189:50032/play/a062/index.m3u8
-#EXTINF:-1,RTU
-http://177.234.242.189:50032/play/a06l/index.m3u8
-#EXTINF:-1,Reggae
-http://177.234.242.189:50032/play/a03v/index.m3u8
-#EXTINF:-1,Reggaeton
-http://177.234.242.189:50032/play/a03w/index.m3u8
-#EXTINF:-1,Regional Mexican
-http://177.234.242.189:50032/play/a03y/index.m3u8
-#EXTINF:-1,Rock Latino
-http://177.234.242.189:50032/play/a03x/index.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://177.234.242.189:50032/play/a02f/index.m3u8
-#EXTINF:-1,STAR TVE HD
-http://177.234.242.189:50032/play/a00s/index.m3u8
-#EXTINF:-1,Salsa y Merengue
-http://177.234.242.189:50032/play/a083/index.m3u8
-#EXTINF:-1,Sin Limites
-http://177.234.242.189:50032/play/a04j/index.m3u8
-#EXTINF:-1,Solo Para Peques
-http://177.234.242.189:50032/play/a084/index.m3u8
-#EXTINF:-1,Sony
-http://177.234.242.189:50032/play/a05v/index.m3u8
-#EXTINF:-1,Space
-http://177.234.242.189:50032/play/a05x/index.m3u8
-#EXTINF:-1,Studio Universal
-http://177.234.242.189:50032/play/a036/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://177.234.242.189:50032/play/a00r/index.m3u8
-#EXTINF:-1,SyFy
-http://177.234.242.189:50032/play/a02q/index.m3u8
-#EXTINF:-1,Symphonic
-http://177.234.242.189:50032/play/a03p/index.m3u8
-#EXTINF:-1,TBS
-http://177.234.242.189:50032/play/a049/index.m3u8
-#EXTINF:-1,TC Television
-http://177.234.242.189:50032/play/a07m/index.m3u8
-#EXTINF:-1,TNT
-http://177.234.242.189:50032/play/a02i/index.m3u8
-#EXTINF:-1,TV+ HD
-http://177.234.242.189:50032/play/a00c/index.m3u8
-#EXTINF:-1,Teleamazonas
-http://177.234.242.189:50032/play/a08a/index.m3u8
-#EXTINF:-1,Teleciudadana
-http://177.234.242.189:50032/play/a06k/index.m3u8
-#EXTINF:-1,Telemundo
-http://177.234.242.189:50032/play/a044/index.m3u8
-#EXTINF:-1,Televicentro
-http://177.234.242.189:50032/play/a06v/index.m3u8
-#EXTINF:-1,Universal
-http://177.234.242.189:50032/play/a02a/index.m3u8
-#EXTINF:-1,Via X Esports
-http://177.234.242.189:50032/play/a06h/index.m3u8
-#EXTINF:-1,WUAN+
-http://177.234.242.189:50032/play/a06w/index.m3u8
-#EXTINF:-1,Warner
-http://177.234.242.189:50032/play/a03f/index.m3u8
-#EXTINF:-1,Win Sports+ HD
-http://177.234.242.189:50032/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01 | DISCOVERY CHANNEL SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="CULTURE",01 | DISCOVERY CHANNEL SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152892
+#EXTINF:-1 tvg-id="I732.25788.schedulesdirect.org" tvg-name="02 | DISCOVERY CHANNEL | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="CULTURE",02 | DISCOVERY CHANNEL | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152893
+#EXTINF:-1 tvg-id="" tvg-name="03 | DISCOVERY CHANNEL HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="CULTURE",03 | DISCOVERY CHANNEL HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152894
+#EXTINF:-1 tvg-id="" tvg-name="04 | DISCOVERY CHANNEL FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="CULTURE",04 | DISCOVERY CHANNEL FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152895
+#EXTINF:-1 tvg-id="" tvg-name="05 | DISCOVERY INVESTIGATION SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURE",05 | DISCOVERY INVESTIGATION SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152896
+#EXTINF:-1 tvg-id="" tvg-name="06 | DISCOVERY INVESTIGATION SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURE",06 | DISCOVERY INVESTIGATION SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152897
+#EXTINF:-1 tvg-id="" tvg-name="07 | DISCOVERY INVESTIGATION HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURE",07 | DISCOVERY INVESTIGATION HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152898
+#EXTINF:-1 tvg-id="" tvg-name="08 | DISCOVERY INVESTIGATION FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURE",08 | DISCOVERY INVESTIGATION FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152899
+#EXTINF:-1 tvg-id="" tvg-name="09 | DISCOVERY INVESTIGATION FHD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="CULTURE",09 | DISCOVERY INVESTIGATION FHD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152900
+#EXTINF:-1 tvg-id="" tvg-name="10 | DISCOVERY WORLD SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="CULTURE",10 | DISCOVERY WORLD SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152901
+#EXTINF:-1 tvg-id="" tvg-name="11 | DISCOVERY WORLD SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="CULTURE",11 | DISCOVERY WORLD SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152902
+#EXTINF:-1 tvg-id="" tvg-name="12 | DISCOVERY WORLD HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="CULTURE",12 | DISCOVERY WORLD HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152903
+#EXTINF:-1 tvg-id="" tvg-name="13 | DISCOVERY WORLD FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="CULTURE",13 | DISCOVERY WORLD FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152904
+#EXTINF:-1 tvg-id="" tvg-name="14 | DISCOVERY SCIENCE SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png" group-title="CULTURE",14 | DISCOVERY SCIENCE SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152905
+#EXTINF:-1 tvg-id="" tvg-name="15 | DISCOVERY SCIENCE SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png" group-title="CULTURE",15 | DISCOVERY SCIENCE SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152906
+#EXTINF:-1 tvg-id="" tvg-name="16 | DISCOVERY SCIENCE HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png" group-title="CULTURE",16 | DISCOVERY SCIENCE HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152907
+#EXTINF:-1 tvg-id="" tvg-name="17 | DISCOVERY SCIENCE HD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_science-mediano.png" group-title="CULTURE",17 | DISCOVERY SCIENCE HD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152908
+#EXTINF:-1 tvg-id="" tvg-name="18 | DISCOVERY TURBO SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png" group-title="CULTURE",18 | DISCOVERY TURBO SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152909
+#EXTINF:-1 tvg-id="" tvg-name="19 | DISCOVERY TURBO SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png" group-title="CULTURE",19 | DISCOVERY TURBO SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152910
+#EXTINF:-1 tvg-id="" tvg-name="20 | DISCOVERY TURBO FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png" group-title="CULTURE",20 | DISCOVERY TURBO FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152911
+#EXTINF:-1 tvg-id="" tvg-name="21 | DISCOVERY CIVILIZATION SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_civilization_latinoamerica-mediano.png" group-title="CULTURE",21 | DISCOVERY CIVILIZATION SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152912
+#EXTINF:-1 tvg-id="" tvg-name="22 | DISCOVERY CIVILIZATION SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_civilization_latinoamerica-mediano.png" group-title="CULTURE",22 | DISCOVERY CIVILIZATION SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152913
+#EXTINF:-1 tvg-id="" tvg-name="23 | DISCOVERY CIVILIZATION FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_civilization_latinoamerica-mediano.png" group-title="CULTURE",23 | DISCOVERY CIVILIZATION FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152914
+#EXTINF:-1 tvg-id="" tvg-name="24 | DISCOVERY THEATER SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="CULTURE",24 | DISCOVERY THEATER SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152915
+#EXTINF:-1 tvg-id="" tvg-name="25 | DISCOVERY THEATER SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="CULTURE",25 | DISCOVERY THEATER SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152916
+#EXTINF:-1 tvg-id="" tvg-name="26 | DISCOVERY THEATER | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="CULTURE",26 | DISCOVERY THEATER | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152917
+#EXTINF:-1 tvg-id="" tvg-name="27 | DISCOVERY THEATER FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="CULTURE",27 | DISCOVERY THEATER FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152918
+#EXTINF:-1 tvg-id="" tvg-name="28 | DISCOVERY H&H SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="CULTURE",28 | DISCOVERY H&H SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152919
+#EXTINF:-1 tvg-id="" tvg-name="29 | DISCOVERY H&H SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="CULTURE",29 | DISCOVERY H&H SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152920
+#EXTINF:-1 tvg-id="" tvg-name="30 | DISCOVERY H&H HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="CULTURE",30 | DISCOVERY H&H HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152921
+#EXTINF:-1 tvg-id="" tvg-name="31 | DISCOVERY H&H FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="CULTURE",31 | DISCOVERY H&H FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152922
+#EXTINF:-1 tvg-id="" tvg-name="32 | ANIMAL PLANET SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png" group-title="CULTURE",32 | ANIMAL PLANET SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152923
+#EXTINF:-1 tvg-id="" tvg-name="33 | FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="CULTURE",33 | FOOD NETWORK HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152924
+#EXTINF:-1 tvg-id="" tvg-name="34 | ANIMAL PLANET SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png" group-title="CULTURE",34 | ANIMAL PLANET SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152925
+#EXTINF:-1 tvg-id="" tvg-name="35 | ANIMAL PLANET HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png" group-title="CULTURE",35 | ANIMAL PLANET HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152926
+#EXTINF:-1 tvg-id="" tvg-name="36 | ANIMAL PLANET HD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/animal_planet_latinoamerica-mediano.png" group-title="CULTURE",36 | ANIMAL PLANET HD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152927
+#EXTINF:-1 tvg-id="" tvg-name="37 | HISTORY CHANNEL | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="CULTURE",37 | HISTORY CHANNEL | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152928
+#EXTINF:-1 tvg-id="" tvg-name="38 | HISTORY CHANNEL SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="CULTURE",38 | HISTORY CHANNEL SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152929
+#EXTINF:-1 tvg-id="" tvg-name="39 | HISTORY CHANNEL | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="CULTURE",39 | HISTORY CHANNEL | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152930
+#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="40 | HISTORY CHANNEL | FHD*" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_latinoamerica-mediano.png" group-title="CULTURE",40 | HISTORY CHANNEL | FHD*
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152931
+#EXTINF:-1 tvg-id="" tvg-name="41 | HISTORY 2 SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="CULTURE",41 | HISTORY 2 SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152932
+#EXTINF:-1 tvg-id="" tvg-name="42 | HISTORY 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="CULTURE",42 | HISTORY 2 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152933
+#EXTINF:-1 tvg-id="" tvg-name="43 | HISTORY 2 FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="CULTURE",43 | HISTORY 2 FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152934
+#EXTINF:-1 tvg-id="" tvg-name="44 | HISTORY 2 FHD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="CULTURE",44 | HISTORY 2 FHD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152935
+#EXTINF:-1 tvg-id="" tvg-name="45 | NATGEO SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" group-title="CULTURE",45 | NATGEO SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152936
+#EXTINF:-1 tvg-id="" tvg-name="46 | NATGEO SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" group-title="CULTURE",46 | NATGEO SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152937
+#EXTINF:-1 tvg-id="" tvg-name="47 | NATGEO FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" group-title="CULTURE",47 | NATGEO FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152938
+#EXTINF:-1 tvg-id="" tvg-name="48 | NATGEO FHD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/national_geographic_latinoamerica-mediano.png" group-title="CULTURE",48 | NATGEO FHD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152939
+#EXTINF:-1 tvg-id="" tvg-name="49 | NAT GEO WILD SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nat_geo_wild-mediano.png" group-title="CULTURE",49 | NAT GEO WILD SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152940
+#EXTINF:-1 tvg-id="" tvg-name="50 | NAT GEO WILD | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nat_geo_wild-mediano.png" group-title="CULTURE",50 | NAT GEO WILD | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152941
+#EXTINF:-1 tvg-id="" tvg-name="51 | NAT GEO WILD HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nat_geo_wild-mediano.png" group-title="CULTURE",51 | NAT GEO WILD HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152942
+#EXTINF:-1 tvg-id="" tvg-name="52 | NAT GEO WILD FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nat_geo_wild-mediano.png" group-title="CULTURE",52 | NAT GEO WILD FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152943
+#EXTINF:-1 tvg-id="" tvg-name="53 | THE GOURMET SD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-gourmet_m.png" group-title="CULTURE",53 | THE GOURMET SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152944
+#EXTINF:-1 tvg-id="" tvg-name="54 | THE GOURMET HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-gourmet_m.png" group-title="CULTURE",54 | THE GOURMET HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152945
+#EXTINF:-1 tvg-id="" tvg-name="55 | THE GOURMET FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-gourmet_m.png" group-title="CULTURE",55 | THE GOURMET FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152946
+#EXTINF:-1 tvg-id="" tvg-name="56 | HLN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="CULTURE",56 | HLN SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152947
+#EXTINF:-1 tvg-id="" tvg-name="57 | TV5 MONDE HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv5monde-mediano.png" group-title="CULTURE",57 | TV5 MONDE HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152948
+#EXTINF:-1 tvg-id="" tvg-name="58 | TV5 MONDE SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tv5monde-mediano.png" group-title="CULTURE",58 | TV5 MONDE SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152949
+#EXTINF:-1 tvg-id="" tvg-name="59 | BLOOMBERG | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bloomberg-mediano.png" group-title="CULTURE",59 | BLOOMBERG | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152950
+#EXTINF:-1 tvg-id="" tvg-name="60 | BLOOMBERG FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bloomberg-mediano.png" group-title="CULTURE",60 | BLOOMBERG FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152951
+#EXTINF:-1 tvg-id="" tvg-name="61 | WOBI SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/wobi-mediano.png" group-title="CULTURE",61 | WOBI SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152952
+#EXTINF:-1 tvg-id="" tvg-name="62 | WOBI FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/wobi-mediano.png" group-title="CULTURE",62 | WOBI FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152953
+#EXTINF:-1 tvg-id="" tvg-name="63 | HOLA TV SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hola_tv-mediano.png" group-title="CULTURE",63 | HOLA TV SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152954
+#EXTINF:-1 tvg-id="" tvg-name="64 | HOLA TV FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hola_tv-mediano.png" group-title="CULTURE",64 | HOLA TV FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152955
+#EXTINF:-1 tvg-id="" tvg-name="65 | I-SAT | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1280px-I.Sat_logo.svg.png" group-title="CULTURE",65 | I-SAT | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152956
+#EXTINF:-1 tvg-id="" tvg-name="66 | CNN ESPAÑOL SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_en_espanol-mediano.png" group-title="CULTURE",66 | CNN ESPAÑOL SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152957
+#EXTINF:-1 tvg-id="" tvg-name="67 | CNN ESPAÑOL SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_en_espanol-mediano.png" group-title="CULTURE",67 | CNN ESPAÑOL SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152958
+#EXTINF:-1 tvg-id="" tvg-name="68 | CNN ESPAÑOL HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_en_espanol-mediano.png" group-title="CULTURE",68 | CNN ESPAÑOL HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152959
+#EXTINF:-1 tvg-id="" tvg-name="69 | CNN ESPAÑOL HD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_en_espanol-mediano.png" group-title="CULTURE",69 | CNN ESPAÑOL HD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152960
+#EXTINF:-1 tvg-id="" tvg-name="70 | CNN CHILE SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_chile-mediano.png" group-title="CULTURE",70 | CNN CHILE SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152961
+#EXTINF:-1 tvg-id="" tvg-name="71 | CNN CHILE | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_chile-mediano.png" group-title="CULTURE",71 | CNN CHILE | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152962
+#EXTINF:-1 tvg-id="" tvg-name="72 | CNN INTERNACIONAL SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_internacional-mediano.png" group-title="CULTURE",72 | CNN INTERNACIONAL SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152963
+#EXTINF:-1 tvg-id="" tvg-name="73 | CNN INTERNACIONAL SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_internacional-mediano.png" group-title="CULTURE",73 | CNN INTERNACIONAL SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152964
+#EXTINF:-1 tvg-id="" tvg-name="74 | CNN INTERNACIONAL HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cnn_internacional-mediano.png" group-title="CULTURE",74 | CNN INTERNACIONAL HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152965
+#EXTINF:-1 tvg-id="" tvg-name="75 | NTN24 SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ntn24-mediano.png" group-title="CULTURE",75 | NTN24 SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152966
+#EXTINF:-1 tvg-id="" tvg-name="76 | NTN24 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ntn24-mediano.png" group-title="CULTURE",76 | NTN24 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152967
+#EXTINF:-1 tvg-id="" tvg-name="77 | FOX NEWS SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_news-mediano.png" group-title="CULTURE",77 | FOX NEWS SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152968
+#EXTINF:-1 tvg-id="" tvg-name="78 | FOX NEWS SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_news-mediano.png" group-title="CULTURE",78 | FOX NEWS SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152969
+#EXTINF:-1 tvg-id="" tvg-name="79 | FOX NEWS SD2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_news-mediano.png" group-title="CULTURE",79 | FOX NEWS SD2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152970
+#EXTINF:-1 tvg-id="" tvg-name="80 | FOX NEWS SD3" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_news-mediano.png" group-title="CULTURE",80 | FOX NEWS SD3
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152971
+#EXTINF:-1 tvg-id="" tvg-name="81 | FOX NEWS SD4" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_news-mediano.png" group-title="CULTURE",81 | FOX NEWS SD4
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152972
+#EXTINF:-1 tvg-id="" tvg-name="82 | FOX NEWS FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_news-mediano.png" group-title="CULTURE",82 | FOX NEWS FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152973
+#EXTINF:-1 tvg-id="" tvg-name="83 | DW SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/deutsche_welle-mediano.png" group-title="CULTURE",83 | DW SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152974
+#EXTINF:-1 tvg-id="" tvg-name="84 | DW FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/deutsche_welle-mediano.png" group-title="CULTURE",84 | DW FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152975
+#EXTINF:-1 tvg-id="" tvg-name="85 | FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="CULTURE",85 | FOOD NETWORK SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152976
+#EXTINF:-1 tvg-id="" tvg-name="86 | FOOD NETWORK SD1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="CULTURE",86 | FOOD NETWORK SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152977
+#EXTINF:-1 tvg-id="" tvg-name="87 | FOOD NETWORK | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="CULTURE",87 | FOOD NETWORK | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152978
+#EXTINF:-1 tvg-id="" tvg-name="01 | FOX SPORTS SUR | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="SPORTS HD",01 | FOX SPORTS SUR | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2570
+#EXTINF:-1 tvg-id="I1608.66365.schedulesdirect.org" tvg-name="02 | FOX SPORTS 2 SUR | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="SPORTS HD",02 | FOX SPORTS 2 SUR | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2676
+#EXTINF:-1 tvg-id="I609.47374.schedulesdirect.org" tvg-name="03 | FOX SPORTS 3 SUR | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="SPORTS HD",03 | FOX SPORTS 3 SUR | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2677
+#EXTINF:-1 tvg-id="I478.54541.schedulesdirect.org" tvg-name="04 | GOLTV LAT | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gol_tv_estados_unidos-mediano.png" group-title="SPORTS HD",04 | GOLTV LAT | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2678
+#EXTINF:-1 tvg-id="" tvg-name="05 | DIRECTV SPORTS CHILE | FHD" tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Directv-sports-en-vivo.png" group-title="SPORTS HD",05 | DIRECTV SPORTS CHILE | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2679
+#EXTINF:-1 tvg-id="" tvg-name="06 | DIRECTV SPORTS URY | HD" tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Directv-sports-en-vivo.png" group-title="SPORTS HD",06 | DIRECTV SPORTS URY | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2680
+#EXTINF:-1 tvg-id="" tvg-name="07 | DIRECTV SPORTS ARG | HD" tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Directv-sports-en-vivo.png" group-title="SPORTS HD",07 | DIRECTV SPORTS ARG | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2681
+#EXTINF:-1 tvg-id="" tvg-name="08 | BEIN SPORTS Ñ | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png" group-title="SPORTS HD",08 | BEIN SPORTS Ñ | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2682
+#EXTINF:-1 tvg-id="I633.87031.schedulesdirect.org" tvg-name="09 | WIN SPORTS | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/win_sports-mediano.png" group-title="SPORTS HD",09 | WIN SPORTS | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2683
+#EXTINF:-1 tvg-id="I1633.87031.schedulesdirect.org" tvg-name="10 | WIN SPORTS + | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/200px-Win_Sports%2B_logo.svg.png" group-title="SPORTS HD",10 | WIN SPORTS + | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2684
+#EXTINF:-1 tvg-id="I896.69306.schedulesdirect.org" tvg-name="11 | ESTADIO TNT SPORTS CL | HD" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2021/05/Logotipo_TNT_Sports.png" group-title="SPORTS HD",11 | ESTADIO TNT SPORTS CL | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2685
+#EXTINF:-1 tvg-id="I896.69306.schedulesdirect.org" tvg-name="12 | TNT SPORTS CL | HD" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2021/05/Logotipo_TNT_Sports.png" group-title="SPORTS HD",12 | TNT SPORTS CL | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2686
+#EXTINF:-1 tvg-id="I486.46744.schedulesdirect.org" tvg-name="13 | TNT SPORTS 2 CL | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports_2_chile-mediano.png" group-title="SPORTS HD",13 | TNT SPORTS 2 CL | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2687
+#EXTINF:-1 tvg-id="I484.50707.schedulesdirect.org" tvg-name="14 | TNT SPORTS 3 CL | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports_3_chile-mediano.png" group-title="SPORTS HD",14 | TNT SPORTS 3 CL | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2688
+#EXTINF:-1 tvg-id="I116.50296.schedulesdirect.org" tvg-name="15 | GOL PERU | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="SPORTS HD",15 | GOL PERU | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2689
+#EXTINF:-1 tvg-id="" tvg-name="16 | SKY SPORTS LA LIGA | HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo.png" group-title="SPORTS HD",16 | SKY SPORTS LA LIGA | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2690
+#EXTINF:-1 tvg-id="I603.106780.schedulesdirect.org" tvg-name="17 | TNT SPORTS ARG | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="SPORTS HD",17 | TNT SPORTS ARG | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2691
+#EXTINF:-1 tvg-id="" tvg-name="18 | MOVISTAR LIGA DE CAMPEONES | HD" tvg-logo="https://i.imgur.com/MVFRKTv.png" group-title="SPORTS HD",18 | MOVISTAR LIGA DE CAMPEONES | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2692
+#EXTINF:-1 tvg-id="I625.17725.schedulesdirect.org" tvg-name="19 | ESPN SUR | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="SPORTS HD",19 | ESPN SUR | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2816
+#EXTINF:-1 tvg-id="" tvg-name="20 | ESPN 2 SUR | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="SPORTS HD",20 | ESPN 2 SUR | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2817
+#EXTINF:-1 tvg-id="I626.73834.schedulesdirect.org" tvg-name="21 | ESPN 3 SUR | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="SPORTS HD",21 | ESPN 3 SUR | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2818
+#EXTINF:-1 tvg-id="I1623.17725.schedulesdirect.org" tvg-name="22 | ESPN COL | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="SPORTS HD",22 | ESPN COL | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/129025
+#EXTINF:-1 tvg-id="I130.18568.schedulesdirect.org" tvg-name="23 | ESPN 2 COL | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="SPORTS HD",23 | ESPN 2 COL | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/129026
+#EXTINF:-1 tvg-id="I626.73833.schedulesdirect.org" tvg-name="24 | ESPN 3 COL | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="SPORTS HD",24 | ESPN 3 COL | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/129027
+#EXTINF:-1 tvg-id="I561.110964.schedulesdirect.org" tvg-name="25 | ESPN NORTE | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="SPORTS HD",25 | ESPN NORTE | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/129300
+#EXTINF:-1 tvg-id="I558.96876.schedulesdirect.org" tvg-name="26 | ESPN 2 NORTE | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="SPORTS HD",26 | ESPN 2 NORTE | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/129388
+#EXTINF:-1 tvg-id="I520.79042.schedulesdirect.org" tvg-name="27 | ESPN 3 NORTE | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="SPORTS HD",27 | ESPN 3 NORTE | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/133040
+#EXTINF:-1 tvg-id="I116.50296.schedulesdirect.org" tvg-name="28 | ESPN 2 CHILE " tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="SPORTS HD",28 | ESPN 2 CHILE 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/133063
+#EXTINF:-1 tvg-id="" tvg-name="29 | GOLTV USA | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gol_tv_estados_unidos-mediano.png" group-title="SPORTS HD",29 | GOLTV USA | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/133064
+#EXTINF:-1 tvg-id="" tvg-name="30 | DIRECTV SPORTS COL | HD" tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Directv-sports-en-vivo.png" group-title="SPORTS HD",30 | DIRECTV SPORTS COL | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/133065
+#EXTINF:-1 tvg-id="" tvg-name="31 | DIRECTV SPORTS 2 COL | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/175px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="SPORTS HD",31 | DIRECTV SPORTS 2 COL | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/133066
+#EXTINF:-1 tvg-id="" tvg-name="33 | NBA TV | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="SPORTS HD",33 | NBA TV | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/133071
+#EXTINF:-1 tvg-id="I629.16275.schedulesdirect.org" tvg-name="34 | TYC SPORTS | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="SPORTS HD",34 | TYC SPORTS | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/137121
+#EXTINF:-1 tvg-id="I1629.16275.schedulesdirect.org" tvg-name="35 | TYC SPORTS | HD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="SPORTS HD",35 | TYC SPORTS | HD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/138271
+#EXTINF:-1 tvg-id="I183.46318.schedulesdirect.org" tvg-name="36 | VTV URUGUAY | HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv-uy.png" group-title="SPORTS HD",36 | VTV URUGUAY | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/138272
+#EXTINF:-1 tvg-id="" tvg-name="37 | VTV PLUS URY | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="SPORTS HD",37 | VTV PLUS URY | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/138401
+#EXTINF:-1 tvg-id="" tvg-name="38 | FOX DEPORTES | HD" tvg-logo="https://www.foxdeportes.com/assets/images/logo-fox.png" group-title="SPORTS HD",38 | FOX DEPORTES | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/143739
+#EXTINF:-1 tvg-id="" tvg-name="39 | FOX SPORTS NORTE | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="SPORTS HD",39 | FOX SPORTS NORTE | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144283
+#EXTINF:-1 tvg-id="I527.71328.schedulesdirect.org" tvg-name="40 | FOX SPORTS 2 NORTE | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="SPORTS HD",40 | FOX SPORTS 2 NORTE | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144284
+#EXTINF:-1 tvg-id="" tvg-name="43 | ESPN DEPORTES | HD" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="SPORTS HD",43 | ESPN DEPORTES | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144287
+#EXTINF:-1 tvg-id="I569.79923.schedulesdirect.org" tvg-name="41 | FOX SPORTS 3 NORTE | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_3-mediano.png" group-title="SPORTS HD",41 | FOX SPORTS 3 NORTE | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144285
+#EXTINF:-1 tvg-id="" tvg-name="42 | UFC NETWORK | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="SPORTS HD",42 | UFC NETWORK | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144286
+#EXTINF:-1 tvg-id="" tvg-name="44 | FORMULA 1 DAZN | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="SPORTS HD",44 | FORMULA 1 DAZN | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144288
+#EXTINF:-1 tvg-id="" tvg-name="45 | TENNIS CHANNEL | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="SPORTS HD",45 | TENNIS CHANNEL | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144289
+#EXTINF:-1 tvg-id="" tvg-name="46 | TOROS | FHD" tvg-logo="https://plazatoros.tv/assets-new/images/Logo-Plaza-Toros-1.png" group-title="SPORTS HD",46 | TOROS | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144290
+#EXTINF:-1 tvg-id="" tvg-name="47 | TD+ C.R. | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TD_M%C3%A1s_Logo.png/120px-TD_M%C3%A1s_Logo.png" group-title="SPORTS HD",47 | TD+ C.R. | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144291
+#EXTINF:-1 tvg-id="" tvg-name="48 | TD+ 2 C.R. | FHD" tvg-logo="https://static.wixstatic.com/media/281e2a_70e1b318c641448fa38c041e38c78ae2~mv2.png/v1/fit/w_720%2Ch_340%2Cal_c/file.png" group-title="SPORTS HD",48 | TD+ 2 C.R. | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144292
+#EXTINF:-1 tvg-id="I503.38683.schedulesdirect.org" tvg-name="49 | TUDN | FHD " tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="SPORTS HD",49 | TUDN | FHD 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144293
+#EXTINF:-1 tvg-id="I503.38683.schedulesdirect.org" tvg-name="50 | TUDN | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="SPORTS HD",50 | TUDN | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144294
+#EXTINF:-1 tvg-id="" tvg-name="51 | TVG 2 | HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tvg2.png" group-title="SPORTS HD",51 | TVG 2 | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144295
+#EXTINF:-1 tvg-id="" tvg-name="52 | TVG | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TVG_logo.svg/1200px-TVG_logo.svg.png" group-title="SPORTS HD",52 | TVG | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144296
+#EXTINF:-1 tvg-id="I631.112240.schedulesdirect.org" tvg-name="53 | DEPORTV | HD" tvg-logo="http://deportv.gov.ar/img/logo-header.png" group-title="SPORTS HD",53 | DEPORTV | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144343
+#EXTINF:-1 tvg-id="" tvg-name="54 | WWE NETWORK | HD" tvg-logo="https://www.nicepng.com/png/full/99-998538_wwe-network-logo-photo-hd-wwe-network-logo.png" group-title="SPORTS HD",54 | WWE NETWORK | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144344
+#EXTINF:-1 tvg-id="" tvg-name="55 | REAL MADRID | HD" tvg-logo="https://grilla.naturytv.net/wp-content/uploads/2020/09/Real-Madrid-Tv.png" group-title="SPORTS HD",55 | REAL MADRID | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144345
+#EXTINF:-1 tvg-id="" tvg-name="56 | CDF ECUADOR | HD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="SPORTS HD",56 | CDF ECUADOR | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144346
+#EXTINF:-1 tvg-id="" tvg-name="57 | MOVISTAR DEPORTES PERU | HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="SPORTS HD",57 | MOVISTAR DEPORTES PERU | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144347
+#EXTINF:-1 tvg-id="" tvg-name="58 | TIGO SPORTS PY OPC 1 | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png" group-title="SPORTS HD",58 | TIGO SPORTS PY OPC 1 | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144348
+#EXTINF:-1 tvg-id="" tvg-name="60 | TIGO SPORTS HD BOL | HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1731.png" group-title="SPORTS HD",60 | TIGO SPORTS HD BOL | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144920
+#EXTINF:-1 tvg-id="" tvg-name="62 | TIGO SPORTS 3 BOL | HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1731.png" group-title="SPORTS HD",62 | TIGO SPORTS 3 BOL | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/146531
+#EXTINF:-1 tvg-id="" tvg-name="63 | YES NETWORK | HD" tvg-logo="https://westfaironline.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-01-at-10.49.41-AM.png" group-title="SPORTS HD",63 | YES NETWORK | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/146532
+#EXTINF:-1 tvg-id="" tvg-name="64 | BARCA TV | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="SPORTS HD",64 | BARCA TV | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/146533
+#EXTINF:-1 tvg-id="" tvg-name="65 | EUROSPORTS | HD" tvg-logo="https://rmkcdn.successfactors.com/862502cf/5a5cca61-9db1-477f-af84-8.png" group-title="SPORTS HD",65 | EUROSPORTS | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/146534
+#EXTINF:-1 tvg-id="" tvg-name="59 | TIGO SPORTS PY OPC 2 | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tigo_sports-mediano.png" group-title="SPORTS HD",59 | TIGO SPORTS PY OPC 2 | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/144349
+#EXTINF:-1 tvg-id="" tvg-name="61 | TIGO SPORTS 2 BOL | HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1731.png" grouFwinp-title="SPORTS HD",61 | TIGO SPORTS 2 BOL | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/146173
+#EXTINF:-1 tvg-id="I522.20544.tvguide.com" tvg-name="01 | FOX SPORTS LAT | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="SPORTS SD",01 | FOX SPORTS LAT | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/1971
+#EXTINF:-1 tvg-id="" tvg-name="01 | MTV 80S SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_80s-mediano.png" group-title="MUSICA",01 | MTV 80S SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2077
+#EXTINF:-1 tvg-id="" tvg-name="02 | HTV SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/htv-mediano.png" group-title="MUSICA",02 | HTV SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2078
+#EXTINF:-1 tvg-id="" tvg-name="03 | MTV OPC 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv-mediano.png" group-title="MUSICA",03 | MTV OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2079
+#EXTINF:-1 tvg-id="" tvg-name="04 | BANDAMAX SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax-mediano.png" group-title="MUSICA",04 | BANDAMAX SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2080
+#EXTINF:-1 tvg-id="" tvg-name="05 | TELEHIT MUSICA PLUS SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telehit_musica_plus-mediano.png" group-title="MUSICA",05 | TELEHIT MUSICA PLUS SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2081
+#EXTINF:-1 tvg-id="" tvg-name="06 | MTV 00S SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_00s-mediano.png" group-title="MUSICA",06 | MTV 00S SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2082
+#EXTINF:-1 tvg-id="" tvg-name="07 | CONCERT CHANNEL" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/concert_channel-mediano.png" group-title="MUSICA",07 | CONCERT CHANNEL
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2084
+#EXTINF:-1 tvg-id="" tvg-name="08 | MTV OPC 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv-mediano.png" group-title="MUSICA",08 | MTV OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2085
+#EXTINF:-1 tvg-id="" tvg-name="09 | TELEHIT MUSICA PLUS FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telehit_musica_plus-mediano.png" group-title="MUSICA",09 | TELEHIT MUSICA PLUS FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2086
+#EXTINF:-1 tvg-id="" tvg-name="10 | MTV CLASSIC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="MUSICA",10 | MTV CLASSIC SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2087
+#EXTINF:-1 tvg-id="" tvg-name="11 | MUCH MUSIC SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/much_music-mediano.png" group-title="MUSICA",11 | MUCH MUSIC SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2088
+#EXTINF:-1 tvg-id="" tvg-name="01 | Starz Black HD (1080)" tvg-logo="http://ultraxtvextreme.com:8000/images/88217813ad63dfa666ff3c372318bdd4.png" group-title="PPV CINE LATINO",01 | Starz Black HD (1080)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2205
+#EXTINF:-1 tvg-id="" tvg-name="02 | Cinema PPV" tvg-logo="http://ultraxtvextreme.com:8000/images/88217813ad63dfa666ff3c372318bdd4.png" group-title="PPV CINE LATINO",02 | Cinema PPV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2206
+#EXTINF:-1 tvg-id="" tvg-name="03 | Cinema PPV" tvg-logo="http://ultraxtvextreme.com:8000/images/88217813ad63dfa666ff3c372318bdd4.png" group-title="PPV CINE LATINO",03 | Cinema PPV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2207
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 04
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2208
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 05
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2209
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 06
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2210
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 07
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2211
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 08
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2212
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 09" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 09
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2213
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 10
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2214
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 11
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2215
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 12
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2216
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 13
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2217
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 14
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2218
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 15
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2219
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 16
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2220
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 17
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2221
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 18
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2222
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 19
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2223
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 20
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2224
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 21
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2225
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 22
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2226
+#EXTINF:-1 tvg-id="" tvg-name="PPV | LATINO 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png" group-title="PPV CINE LATINO",PPV | LATINO 23
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2227
+#EXTINF:-1 tvg-id="" tvg-name="01 | TELEMUNDO NEW YORK OPC 1" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/e/e6/T47-logo.png" group-title="TELEMUNDO",01 | TELEMUNDO NEW YORK OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2366
+#EXTINF:-1 tvg-id="" tvg-name="01 | UNIMAS LOS ANGELES" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/unimas-mediano.png" group-title="UNIVISION",01 | UNIMAS LOS ANGELES
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2375
+#EXTINF:-1 tvg-id="" tvg-name="02 | UNIVISION NY OPC 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/univision-mediano.png" group-title="UNIVISION",02 | UNIVISION NY OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2377
+#EXTINF:-1 tvg-id="" tvg-name="03 | UNIVISION MIAMI | ENC" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/univision-mediano.png" group-title="UNIVISION",03 | UNIVISION MIAMI | ENC
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2378
+#EXTINF:-1 tvg-id="" tvg-name="04 | UNIVISION AUSTIN OPC 1" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/austin/univision-62.png" group-title="UNIVISION",04 | UNIVISION AUSTIN OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2380
+#EXTINF:-1 tvg-id="" tvg-name="05 | UNIVISION CHICAGO OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/WGBO_Logo.png" group-title="UNIVISION",05 | UNIVISION CHICAGO OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2381
+#EXTINF:-1 tvg-id="" tvg-name="06 | UNIVISION HOUSTON" tvg-logo="https://empresarioslatinos.org/wp-content/uploads/2020/01/Logo-U45HGray.png" group-title="UNIVISION",06 | UNIVISION HOUSTON
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/2382
+#EXTINF:-1 tvg-id="" tvg-name="01 |  MC Rock 1" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSIC CHOICE",01 |  MC Rock 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3180
+#EXTINF:-1 tvg-id="" tvg-name="02 | MC Mexicana" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSIC CHOICE",02 | MC Mexicana
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3181
+#EXTINF:-1 tvg-id="" tvg-name="03 | MC Pop & Country" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSIC CHOICE",03 | MC Pop & Country
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3182
+#EXTINF:-1 tvg-id="" tvg-name="04 |  MC Pop Latino" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSIC CHOICE",04 |  MC Pop Latino
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3184
+#EXTINF:-1 tvg-id="" tvg-name="05  | MC R&B Soul" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSIC CHOICE",05  | MC R&B Soul
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3185
+#EXTINF:-1 tvg-id="" tvg-name="06 |  MC Rock 2" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSIC CHOICE",06 |  MC Rock 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3187
+#EXTINF:-1 tvg-id="" tvg-name="07 |  MC Toddler Tunes" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSIC CHOICE",07 |  MC Toddler Tunes
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3188
+#EXTINF:-1 tvg-id="" tvg-name="08 | MC Tropicales" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="MUSIC CHOICE",08 | MC Tropicales
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3189
+#EXTINF:-1 tvg-id="" tvg-name="02 | TELEMUNDO PUERTO RICO" tvg-logo="https://media.telemundopr.com/2021/04/PR@3x-1.png" group-title="TELEMUNDO",02 | TELEMUNDO PUERTO RICO
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3205
+#EXTINF:-1 tvg-id="" tvg-name="03 | TELEMUNDO CHICAGO" tvg-logo="https://www.kindpng.com/picc/m/364-3641022_telemundo-hd-png-download.png" group-title="TELEMUNDO",03 | TELEMUNDO CHICAGO
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3206
+#EXTINF:-1 tvg-id="" tvg-name="04 | TELEMUNDO INTERNACIONAL FHD" tvg-logo="https://www.numeroservicioalcliente.com/wp-content/uploads/2020/11/telemundo-39.png" group-title="TELEMUNDO",04 | TELEMUNDO INTERNACIONAL FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3207
+#EXTINF:-1 tvg-id="" tvg-name="05 | TELEMUNDO FRESNO" tvg-logo="https://www.haztecontar.com/wp-content/uploads/2020/04/KNSO-Fresno-Stn-Blk-Red-200x167-1.png" group-title="TELEMUNDO",05 | TELEMUNDO FRESNO
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3208
+#EXTINF:-1 tvg-id="" tvg-name="06 | TELEMUNDO INT HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="TELEMUNDO",06 | TELEMUNDO INT HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3209
+#EXTINF:-1 tvg-id="" tvg-name="07 | TELEMUNDO LAS VEGAS" tvg-logo="https://www.numeroservicioalcliente.com/wp-content/uploads/2021/01/telemundo-las-vegas.png" group-title="TELEMUNDO",07 | TELEMUNDO LAS VEGAS
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3210
+#EXTINF:-1 tvg-id="" tvg-name="08 | TELEMUNDO LOS ANGELES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="TELEMUNDO",08 | TELEMUNDO LOS ANGELES
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3211
+#EXTINF:-1 tvg-id="" tvg-name="09 | TELEMUNDO MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="TELEMUNDO",09 | TELEMUNDO MIAMI
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3212
+#EXTINF:-1 tvg-id="" tvg-name="10 | TELEMUNDO NATIONAL WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO",10 | TELEMUNDO NATIONAL WEST
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3214
+#EXTINF:-1 tvg-id="" tvg-name="11 | TELEMUNDO NUEVA YORK OPC 2" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/e/e6/T47-logo.png" group-title="TELEMUNDO",11 | TELEMUNDO NUEVA YORK OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3215
+#EXTINF:-1 tvg-id="" tvg-name="12 | TELEMUNDO PHILADELPHIA" tvg-logo="https://i1.wp.com/www.numeroservicioalcliente.com/wp-content/uploads/2020/11/telemundo-39.png" group-title="TELEMUNDO",12 | TELEMUNDO PHILADELPHIA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3217
+#EXTINF:-1 tvg-id="" tvg-name="13 | TELEMUNDO PHOENIX ARIZONA" tvg-logo="https://www.numeroservicioalcliente.com/wp-content/uploads/2021/01/KTAZ_Logo.png" group-title="TELEMUNDO",13 | TELEMUNDO PHOENIX ARIZONA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3218
+#EXTINF:-1 tvg-id="" tvg-name="14 | TELEMUNDO SAN DIEGO" tvg-logo="https://dimensionturistica.com/es/wp-content/uploads/2021/03/%C2%BFSin-bufet-de-comida-Los-cruceros-podrian-cambiar-uno-de.png" group-title="TELEMUNDO",14 | TELEMUNDO SAN DIEGO
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3220
+#EXTINF:-1 tvg-id="" tvg-name="15 | TELEMUNDO SAN FRANCISCO OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/KSTS_Logo.png" group-title="TELEMUNDO",15 | TELEMUNDO SAN FRANCISCO OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3221
+#EXTINF:-1 tvg-id="" tvg-name="16 | TELEMUNDO SAN FRANCISCO OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/KSTS_Logo.png" group-title="TELEMUNDO",16 | TELEMUNDO SAN FRANCISCO OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3222
+#EXTINF:-1 tvg-id="" tvg-name="17 | TELEMUNDO WASHINGTON" tvg-logo="https://www.rbr.com/wp-content/uploads/t44.png" group-title="TELEMUNDO",17 | TELEMUNDO WASHINGTON
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3224
+#EXTINF:-1 tvg-id="" tvg-name="07 | UNIVISION ATLANTA OPC 1" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/atlanta/univision-34.png" group-title="UNIVISION",07 | UNIVISION ATLANTA OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3240
+#EXTINF:-1 tvg-id="" tvg-name="08 | UNIVISION AUSTIN OPC 2" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/austin/univision-62.png" group-title="UNIVISION",08 | UNIVISION AUSTIN OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3241
+#EXTINF:-1 tvg-id="" tvg-name="09 | UNIVISION CLEVELAND OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",09 | UNIVISION CLEVELAND OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3242
+#EXTINF:-1 tvg-id="" tvg-name="10 | UNIVISION FRESNO" tvg-logo="https://www.ccwc-fresno.org/wp-content/uploads/2016/04/univision-2.png" group-title="UNIVISION",10 | UNIVISION FRESNO
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3243
+#EXTINF:-1 tvg-id="" tvg-name="11 | UNIVISION PHILADELPHIA OPC 1" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/philadelphia/univision-65-pa.png" group-title="UNIVISION",11 | UNIVISION PHILADELPHIA OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3244
+#EXTINF:-1 tvg-id="" tvg-name="12 | UNIVISION PHOENIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",12 | UNIVISION PHOENIX
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3245
+#EXTINF:-1 tvg-id="" tvg-name="13 | UNIVISION RALEIGH OPC 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/univision-mediano.png" group-title="UNIVISION",13 | UNIVISION RALEIGH OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3246
+#EXTINF:-1 tvg-id="" tvg-name="14 | UNIVISION SALT LAKE CITY OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/245px-Logo_Univision_2019.svg.png" group-title="UNIVISION",14 | UNIVISION SALT LAKE CITY OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3247
+#EXTINF:-1 tvg-id="" tvg-name="15 | UNIVISION SAN ANTONIO OPC 2" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/san-antonio/univision-41-tx.png" group-title="UNIVISION",15 | UNIVISION SAN ANTONIO OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3248
+#EXTINF:-1 tvg-id="" tvg-name="16 | UNIVISION SAN FRANCISCO OPC 1" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/san-antonio/univision-41-tx.png" group-title="UNIVISION",16 | UNIVISION SAN FRANCISCO OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3249
+#EXTINF:-1 tvg-id="" tvg-name="18 | UNIVISION CHICAGO OPC 2" tvg-logo="https://www.thechicagonetwork.org/wp-content/uploads/2019/10/a2-1080x675.png" group-title="UNIVISION",18 | UNIVISION CHICAGO OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3251
+#EXTINF:-1 tvg-id="" tvg-name="19 | UNIVISION MIAMI" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/miami/univision-23-fl.png" group-title="UNIVISION",19 | UNIVISION MIAMI
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3252
+#EXTINF:-1 tvg-id="" tvg-name="20 | UNIVISION DALLAS" tvg-logo="https://pbs.twimg.com/profile_images/1151612385926549505/21QH7TLZ_400x400.png" group-title="UNIVISION",20 | UNIVISION DALLAS
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3253
+#EXTINF:-1 tvg-id="" tvg-name="21 | UNIVISION EAST" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/univision-mediano.png" group-title="UNIVISION",21 | UNIVISION EAST
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3254
+#EXTINF:-1 tvg-id="" tvg-name="22 | UNIVISION HOUSTON" tvg-logo="https://empresarioslatinos.org/wp-content/uploads/2020/01/Logo-U45HGray.png" group-title="UNIVISION",22 | UNIVISION HOUSTON
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3255
+#EXTINF:-1 tvg-id="" tvg-name="24 | UNIVISION NY OPC 2" tvg-logo="https://pbs.twimg.com/profile_images/1149688475295342594/qVc-5UNg.png" group-title="UNIVISION",24 | UNIVISION NY OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3257
+#EXTINF:-1 tvg-id="" tvg-name="26 | UNIVISION PUERTO RICO" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/Univisi%C3%B3n-Puerto-Rico-en-vivo-Online.png" group-title="UNIVISION",26 | UNIVISION PUERTO RICO
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3259
+#EXTINF:-1 tvg-id="" tvg-name="28 | UNIVISION SAN ANTONIO OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",28 | UNIVISION SAN ANTONIO OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3261
+#EXTINF:-1 tvg-id="" tvg-name="29 | UNIVISION ATLANTA OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",29 | UNIVISION ATLANTA OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3262
+#EXTINF:-1 tvg-id="" tvg-name="30 | UNIMAS FRESNO" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/unimas-mediano.png" group-title="UNIVISION",30 | UNIMAS FRESNO
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3263
+#EXTINF:-1 tvg-id="" tvg-name="31 | UNIVISION RALEIGH OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",31 | UNIVISION RALEIGH OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3264
+#EXTINF:-1 tvg-id="" tvg-name="32 | UNIVISION PHILADELPHIA OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",32 | UNIVISION PHILADELPHIA OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3265
+#EXTINF:-1 tvg-id="" tvg-name="33 | UNIVISION CLEVELAND OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",33 | UNIVISION CLEVELAND OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3266
+#EXTINF:-1 tvg-id="" tvg-name="34 | UNIVISION SALT LAKE CITY OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",34 | UNIVISION SALT LAKE CITY OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3267
+#EXTINF:-1 tvg-id="" tvg-name="35 | UNIVISION SAN FRANCISCO OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",35 | UNIVISION SAN FRANCISCO OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3268
+#EXTINF:-1 tvg-id="" tvg-name="36 | UNIVISION LAS VEGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",36 | UNIVISION LAS VEGAS
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3269
+#EXTINF:-1 tvg-id="" tvg-name="37 | UNIVISION AUSTIN OPC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="UNIVISION",37 | UNIVISION AUSTIN OPC 3
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3270
+#EXTINF:-1 tvg-id="" tvg-name="01 | AMERICA TV | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/america_television_peru.png" group-title="PERU",01 | AMERICA TV | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3319
+#EXTINF:-1 tvg-id="" tvg-name="02 | AMERICA TV | HD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/america_television_peru.png" group-title="PERU",02 | AMERICA TV | HD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3320
+#EXTINF:-1 tvg-id="" tvg-name="03 | ATV | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/atv-mediano.png" group-title="PERU",03 | ATV | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3321
+#EXTINF:-1 tvg-id="" tvg-name="04 | ATV | SD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/atv-mediano.png" group-title="PERU",04 | ATV | SD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3324
+#EXTINF:-1 tvg-id="" tvg-name="05 | LATINA | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/frecuencia_latina.png" group-title="PERU",05 | LATINA | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3325
+#EXTINF:-1 tvg-id="" tvg-name="06 | LATINA | HD1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/frecuencia_latina.png" group-title="PERU",06 | LATINA | HD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3326
+#EXTINF:-1 tvg-id="" tvg-name="07 | MOVISTAR PLUS | SD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/movistar-plus-logo-png-1.png" group-title="PERU",07 | MOVISTAR PLUS | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3327
+#EXTINF:-1 tvg-id="" tvg-name="08 | PANAMERICANA | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/panamerikan_television.png" group-title="PERU",08 | PANAMERICANA | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3328
+#EXTINF:-1 tvg-id="" tvg-name="09 | PANAMERICANA | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/panamerikan_television.png" group-title="PERU",09 | PANAMERICANA | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3329
+#EXTINF:-1 tvg-id="" tvg-name="10 | TV PERU | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="PERU",10 | TV PERU | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3330
+#EXTINF:-1 tvg-id="" tvg-name="11 | TV PERU | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="PERU",11 | TV PERU | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3331
+#EXTINF:-1 tvg-id="" tvg-name="12 | MOVISTAR DEPORTES | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="PERU",12 | MOVISTAR DEPORTES | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3332
+#EXTINF:-1 tvg-id="" tvg-name="13 | CANAL N | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="PERU",13 | CANAL N | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3333
+#EXTINF:-1 tvg-id="" tvg-name="14 | CANAL N | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="PERU",14 | CANAL N | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3334
+#EXTINF:-1 tvg-id="" tvg-name="15 | CANAL IPE | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="PERU",15 | CANAL IPE | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3335
+#EXTINF:-1 tvg-id="" tvg-name="16 | MOVISTAR TV | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="PERU",16 | MOVISTAR TV | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3336
+#EXTINF:-1 tvg-id="" tvg-name="17 | PERU MAGICO | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/peru_magico.png" group-title="PERU",17 | PERU MAGICO | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3337
+#EXTINF:-1 tvg-id="" tvg-name="18 | GOL PERU | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="PERU",18 | GOL PERU | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3338
+#EXTINF:-1 tvg-id="" tvg-name="19 | GOL PERU | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="PERU",19 | GOL PERU | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3339
+#EXTINF:-1 tvg-id="" tvg-name="20 | GOL PERU | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="PERU",20 | GOL PERU | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3340
+#EXTINF:-1 tvg-id="" tvg-name="21 | PLUS TV PERU | SD" tvg-logo="https://iconape.com/wp-content/files/nr/284507/png/plustv-logo.png" group-title="PERU",21 | PLUS TV PERU | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3341
+#EXTINF:-1 tvg-id="" tvg-name="22 | GOLPERU | SD" tvg-logo="https://4.bp.blogspot.com/-P5bkFGW8zVk/WDUiY321tXI/AAAAAAAADN8/j3G3wwJg-jQkXG4r9hAIeJmSwIzXIxAtwCLcB/s320/logo%2BgolPeru.png" group-title="PERU",22 | GOLPERU | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3342
+#EXTINF:-1 tvg-id="" tvg-name="23 | CULTURA 24 | HD" tvg-logo="http://teleon.tv/images/logos/cultura24tv-pe.png" group-title="PERU",23 | CULTURA 24 | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3345
+#EXTINF:-1 tvg-id="" tvg-name="24 | GOL PERU | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="PERU",24 | GOL PERU | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3347
+#EXTINF:-1 tvg-id="" tvg-name="25 | GOL PERU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_golperu.png" group-title="PERU",25 | GOL PERU HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3348
+#EXTINF:-1 tvg-id="" tvg-name="26 | LATINA | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/frecuencia_latina.png" group-title="PERU",26 | LATINA | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3349
+#EXTINF:-1 tvg-id="" tvg-name="27 | PANAMERICANA | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/panamerikan_television.png" group-title="PERU",27 | PANAMERICANA | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3350
+#EXTINF:-1 tvg-id="" tvg-name="28 | PERU MAGICO | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/peru_magico.png" group-title="PERU",28 | PERU MAGICO | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3351
+#EXTINF:-1 tvg-id="" tvg-name="29 | RPP | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",29 | RPP | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3352
+#EXTINF:-1 tvg-id="" tvg-name="30 | ATV | SD2" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/atv.png" group-title="PERU",30 | ATV | SD2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3353
+#EXTINF:-1 tvg-id="" tvg-name="01 | TV PUBLICA HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/television_publica_argentina-mediano.png" group-title="ARGENTINA",01 | TV PUBLICA HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3534
+#EXTINF:-1 tvg-id="" tvg-name="02 | TELEMAX OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="ARGENTINA",02 | TELEMAX OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3535
+#EXTINF:-1 tvg-id="" tvg-name="03 | TELEFE OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",03 | TELEFE OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3536
+#EXTINF:-1 tvg-id="" tvg-name="04 | LN+ OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="ARGENTINA",04 | LN+ OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3538
+#EXTINF:-1 tvg-id="" tvg-name="05 | CANAL 9 OPC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA",05 | CANAL 9 OPC 1 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3539
+#EXTINF:-1 tvg-id="" tvg-name="06 | DEPORTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="ARGENTINA",06 | DEPORTV 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3540
+#EXTINF:-1 tvg-id="" tvg-name="07 | CRONICA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARGENTINA",07 | CRONICA 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3541
+#EXTINF:-1 tvg-id="" tvg-name="08 | CANAL 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA",08 | CANAL 9 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3542
+#EXTINF:-1 tvg-id="" tvg-name="09 | CANAL 26 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="ARGENTINA",09 | CANAL 26 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3543
+#EXTINF:-1 tvg-id="" tvg-name="10 | VOLVER OPC 1" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/CANAL-VOLVER-en-vivo-Online.png" group-title="ARGENTINA",10 | VOLVER OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3544
+#EXTINF:-1 tvg-id="" tvg-name="11 | TELESUR OPC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="ARGENTINA",11 | TELESUR OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3545
+#EXTINF:-1 tvg-id="" tvg-name="12 | CANAL DEL SENADO OPC 1" tvg-logo="https://cdn-sp.radionacional.com.ar/wp-content/uploads/2020/05/13112621/1200px-Logo_del_Senado_de_Argentina.svg_.png" group-title="ARGENTINA",12 | CANAL DEL SENADO OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3546
+#EXTINF:-1 tvg-id="" tvg-name="13 | CANAL RURAL " tvg-logo="https://pbs.twimg.com/media/EfAVznNXYAAztgZ.png" group-title="ARGENTINA",13 | CANAL RURAL 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3547
+#EXTINF:-1 tvg-id="" tvg-name="14 | QUIERO MUSICA OPC 1" tvg-logo="https://i.imgur.com/EpZgI8I.png" group-title="ARGENTINA",14 | QUIERO MUSICA OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3548
+#EXTINF:-1 tvg-id="" tvg-name="15 | GARAGE TV " tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png" group-title="ARGENTINA",15 | GARAGE TV 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3549
+#EXTINF:-1 tvg-id="" tvg-name="16 | CIUDAD MAGAZINE " tvg-logo="https://media.cine.com/canales/ar/294_hd.png" group-title="ARGENTINA",16 | CIUDAD MAGAZINE 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3550
+#EXTINF:-1 tvg-id="" tvg-name="17 | LN+ OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="ARGENTINA",17 | LN+ OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3551
+#EXTINF:-1 tvg-id="" tvg-name="18 | QUIERO MUSICA OPC 2" tvg-logo="https://i.imgur.com/EpZgI8I.png" group-title="ARGENTINA",18 | QUIERO MUSICA OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3552
+#EXTINF:-1 tvg-id="" tvg-name="19 | EL TRECE OPC 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/13_de_argentina-mediano.png" group-title="ARGENTINA",19 | EL TRECE OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3553
+#EXTINF:-1 tvg-id="" tvg-name="20 | VOLVER OPC 2" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/09/CANAL-VOLVER-en-vivo-Online.png" group-title="ARGENTINA",20 | VOLVER OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3554
+#EXTINF:-1 tvg-id="" tvg-name="21 | TV PUBLICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/television_publica_argentina-mediano.png" group-title="ARGENTINA",21 | TV PUBLICA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3555
+#EXTINF:-1 tvg-id="" tvg-name="22 | TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="ARGENTINA",22 | TN
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3556
+#EXTINF:-1 tvg-id="" tvg-name="23 | TELESUR OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="ARGENTINA",23 | TELESUR OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3557
+#EXTINF:-1 tvg-id="" tvg-name="24 | TELEMAX OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="ARGENTINA",24 | TELEMAX OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3558
+#EXTINF:-1 tvg-id="" tvg-name="25 | TELEFE OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",25 | TELEFE OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3559
+#EXTINF:-1 tvg-id="" tvg-name="26 | CANAL DEL SENADO OPC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_del_Senado_de_Argentina.svg/1071px-Logo_del_Senado_de_Argentina.svg.png" group-title="ARGENTINA",26 | CANAL DEL SENADO OPC 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3560
+#EXTINF:-1 tvg-id="" tvg-name="27 | CANAL RURAL" tvg-logo="https://pbs.twimg.com/media/EfAVznNXYAAztgZ.png" group-title="ARGENTINA",27 | CANAL RURAL
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3561
+#EXTINF:-1 tvg-id="" tvg-name="28 | CANAL DE LA CIUDAD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="ARGENTINA",28 | CANAL DE LA CIUDAD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3562
+#EXTINF:-1 tvg-id="" tvg-name="29 | METRO " tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/metro--1533.png" group-title="ARGENTINA",29 | METRO 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3563
+#EXTINF:-1 tvg-id="" tvg-name="30 | ENCUENTRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="ARGENTINA",30 | ENCUENTRO HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3564
+#EXTINF:-1 tvg-id="" tvg-name="31 | C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/C5N.svg/1280px-C5N.svg.png" group-title="ARGENTINA",31 | C5N
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3565
+#EXTINF:-1 tvg-id="" tvg-name="32 | ARGENTINISIMA" tvg-logo="https://1.bp.blogspot.com/_UM56cm9HfJE/TFMi2rGtLMI/AAAAAAAAAhM/u4GdJOPmo9s/s1600/argentinisima.png" group-title="ARGENTINA",32 | ARGENTINISIMA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3566
+#EXTINF:-1 tvg-id="" tvg-name="33 | AMERICA OPC 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/america_tv_argentina.png" group-title="ARGENTINA",33 | AMERICA OPC 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3567
+#EXTINF:-1 tvg-id="" tvg-name="34 | EL TRECE OPC 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/13_de_argentina-mediano.png" group-title="ARGENTINA",34 | EL TRECE OPC 2 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3568
+#EXTINF:-1 tvg-id="" tvg-name="01 | LAS ESTRELLAS | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",01 | LAS ESTRELLAS | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3607
+#EXTINF:-1 tvg-id="" tvg-name="02 | LAS ESTRELLAS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",02 | LAS ESTRELLAS | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3647
+#EXTINF:-1 tvg-id="" tvg-name="03 | LAS ESTRELLAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",03 | LAS ESTRELLAS FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3654
+#EXTINF:-1 tvg-id="I576.34863.schedulesdirect.org" tvg-name="02 | AYM SPORTS TV | SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/aym_sports-mediano.png" group-title="SPORTS SD",02 | AYM SPORTS TV | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3655
+#EXTINF:-1 tvg-id="" tvg-name="04 | ADN 40 SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png" group-title="MEXICO",04 | ADN 40 SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3657
+#EXTINF:-1 tvg-id="" tvg-name="12 | MTV LIVE SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_live_hd-mediano.png" group-title="MUSICA",12 | MTV LIVE SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3658
+#EXTINF:-1 tvg-id="" tvg-name="05 | ADN 40 HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png" group-title="MEXICO",05 | ADN 40 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3668
+#EXTINF:-1 tvg-id="" tvg-name="06 | AZTECA UNO SD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="MEXICO",06 | AZTECA UNO SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3670
+#EXTINF:-1 tvg-id="" tvg-name="07 | AZTECA UNO FHD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="MEXICO",07 | AZTECA UNO FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3679
+#EXTINF:-1 tvg-id="" tvg-name="08 | IMAGEN TV (LQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="MEXICO",08 | IMAGEN TV (LQ)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3697
+#EXTINF:-1 tvg-id="" tvg-name="09 | IMAGEN TV (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="MEXICO",09 | IMAGEN TV (HD)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3699
+#EXTINF:-1 tvg-id="" tvg-name="10 | FORO TV (LQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO",10 | FORO TV (LQ)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3705
+#EXTINF:-1 tvg-id="" tvg-name="11 | FORO TV | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO",11 | FORO TV | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3707
+#EXTINF:-1 tvg-id="" tvg-name="12 | CANAL 5 (LQ)" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/XHGC-TV_2014_HD-253x199-151761682.png" group-title="MEXICO",12 | CANAL 5 (LQ)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3708
+#EXTINF:-1 tvg-id="" tvg-name="13 | BANDAMAX FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/bandamax-mediano.png" group-title="MUSICA",13 | BANDAMAX FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3711
+#EXTINF:-1 tvg-id="" tvg-name="13 | CANAL 5 (FHD)" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/XHGC-TV_2014_HD-253x199-151761682.png" group-title="MEXICO",13 | CANAL 5 (FHD)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3718
+#EXTINF:-1 tvg-id="" tvg-name="14 | AZTECA 7 (LQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",14 | AZTECA 7 (LQ)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3719
+#EXTINF:-1 tvg-id="" tvg-name="15 | AZTECA 7 (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",15 | AZTECA 7 (FHD)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3720
+#EXTINF:-1 tvg-id="" tvg-name="16 | CANAL JUDICIAL (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_Canal_Judicial.png" group-title="MEXICO",16 | CANAL JUDICIAL (FHD)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3722
+#EXTINF:-1 tvg-id="" tvg-name="17 | CANAL JUDICIAL (LQ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_Canal_Judicial.png" group-title="MEXICO",17 | CANAL JUDICIAL (LQ)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3723
+#EXTINF:-1 tvg-id="" tvg-name="18 | TELEFORMULA (FHD)" tvg-logo="https://selectra.mx/sites/default/files/images/logos/teleformula-350x183.png" group-title="MEXICO",18 | TELEFORMULA (FHD)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3747
+#EXTINF:-1 tvg-id="" tvg-name="19 | TELEFORMULA (LQ)" tvg-logo="https://selectra.mx/sites/default/files/images/logos/teleformula-350x183.png" group-title="MEXICO",19 | TELEFORMULA (LQ)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3748
+#EXTINF:-1 tvg-id="" tvg-name="20 | CANAL 8 (LQ)" tvg-logo="https://userscontent2.emaze.com/images/5a3fd702-28dd-40ac-9b4a-21206a7c2b64/635428638432009405_televisalogo.png" group-title="MEXICO",20 | CANAL 8 (LQ)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3761
+#EXTINF:-1 tvg-id="" tvg-name="21 | CANAL 8 (FHD)" tvg-logo="https://userscontent2.emaze.com/images/5a3fd702-28dd-40ac-9b4a-21206a7c2b64/635428638432009405_televisalogo.png" group-title="MEXICO",21 | CANAL 8 (FHD)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3762
+#EXTINF:-1 tvg-id="" tvg-name="22 | MEXIQUENSE (LQ)" tvg-logo="https://www.artec.com.mx/wp-content/uploads/2018/02/2015_11_19_13_37_12_mexiquense.png" group-title="MEXICO",22 | MEXIQUENSE (LQ)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3767
+#EXTINF:-1 tvg-id="" tvg-name="23 | MEXIQUENSE (FHD)" tvg-logo="https://www.artec.com.mx/wp-content/uploads/2018/02/2015_11_19_13_37_12_mexiquense.png" group-title="MEXICO",23 | MEXIQUENSE (FHD)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3772
+#EXTINF:-1 tvg-id="" tvg-name="14 | MTV LIVE HQ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_live_hd-mediano.png" group-title="MUSICA",14 | MTV LIVE HQ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3774
+#EXTINF:-1 tvg-id="" tvg-name="24 | MULTIMEDIOS (HD)" tvg-logo="https://img2.pngio.com/grupo-multimedios-media-ownership-monitor-grupo-multimedios-png-310_222.png" group-title="MEXICO",24 | MULTIMEDIOS (HD)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3775
+#EXTINF:-1 tvg-id="" tvg-name="15 | TELEHIT MUSICA" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telehit_musica-mediano.png" group-title="MUSICA",15 | TELEHIT MUSICA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3787
+#EXTINF:-1 tvg-id="" tvg-name="25 | MULTIMEDIOS (LQ)" tvg-logo="https://img2.pngio.com/grupo-multimedios-media-ownership-monitor-grupo-multimedios-png-310_222.png" group-title="MEXICO",25 | MULTIMEDIOS (LQ)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3799
+#EXTINF:-1 tvg-id="" tvg-name="26 | MULTIMEDIO PLUS (LQ)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Multimedios_1.png" group-title="MEXICO",26 | MULTIMEDIO PLUS (LQ)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3801
+#EXTINF:-1 tvg-id="" tvg-name="27 | MULTIMEDIOS PLUS | FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Multimedios_1.png" group-title="MEXICO",27 | MULTIMEDIOS PLUS | FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3802
+#EXTINF:-1 tvg-id="" tvg-name="16 | MTV 00S FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mtv_00s-mediano.png" group-title="MUSICA",16 | MTV 00S FHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3812
+#EXTINF:-1 tvg-id="" tvg-name="01 | CANAL 4 | HD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-4-uruguay-logo.png" group-title="URUGUAY",01 | CANAL 4 | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3816
+#EXTINF:-1 tvg-id="" tvg-name="02 | TELEDOCE | HD" tvg-logo="https://www.logoteca.uy/uploads/imagenes/file_6c982c9657.png" group-title="URUGUAY",02 | TELEDOCE | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3817
+#EXTINF:-1 tvg-id="" tvg-name="03 | CANAL 10 | HQ" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="URUGUAY",03 | CANAL 10 | HQ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3818
+#EXTINF:-1 tvg-id="" tvg-name="04 | CANAL 11 PUNTA DEL ESTE | HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal11.png" group-title="URUGUAY",04 | CANAL 11 PUNTA DEL ESTE | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3819
+#EXTINF:-1 tvg-id="" tvg-name="05 | TELEDOCE | SD" tvg-logo="https://www.logoteca.uy/uploads/imagenes/file_6c982c9657.png" group-title="URUGUAY",05 | TELEDOCE | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3820
+#EXTINF:-1 tvg-id="" tvg-name="06 | A + V  | HQ" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/av.png" group-title="URUGUAY",06 | A + V  | HQ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3821
+#EXTINF:-1 tvg-id="" tvg-name="07 | CANAL 4 | SD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-4-uruguay-logo.png" group-title="URUGUAY",07 | CANAL 4 | SD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3822
+#EXTINF:-1 tvg-id="" tvg-name="08 | TNU | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_Televisi%C3%B3n_Nacional_Uruguay.png" group-title="URUGUAY",08 | TNU | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3823
+#EXTINF:-1 tvg-id="" tvg-name="09 |  LA RED TV | HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/100px-LogoLaRed2018.png" group-title="URUGUAY",09 |  LA RED TV | HD 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3824
+#EXTINF:-1 tvg-id="" tvg-name="10 | CANAL 4 | HD1" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-4-uruguay-logo.png" group-title="URUGUAY",10 | CANAL 4 | HD1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3825
+#EXTINF:-1 tvg-id="" tvg-name="11 | CANAL 10 | HQ1" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="URUGUAY",11 | CANAL 10 | HQ1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3826
+#EXTINF:-1 tvg-id="" tvg-name="12 | LA RED TV | HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/100px-LogoLaRed2018.png" group-title="URUGUAY",12 | LA RED TV | HQ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3827
+#EXTINF:-1 tvg-id="" tvg-name="13 | VTV | HQ" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv-uy.png" group-title="URUGUAY",13 | VTV | HQ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3828
+#EXTINF:-1 tvg-id="" tvg-name="14 | VTV | HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vtv-uy.png" group-title="URUGUAY",14 | VTV | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3829
+#EXTINF:-1 tvg-id="" tvg-name="15 | VTV+ | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/240px-VTV%2BUruguay.svg.png" group-title="URUGUAY",15 | VTV+ | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3830
+#EXTINF:-1 tvg-id="" tvg-name="01 | A&E (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/a_y_e_latinoamerica-mediano.png" group-title="LOW CHANNEL",01 | A&E (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3838
+#EXTINF:-1 tvg-id="" tvg-name="02 | AXN (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/axn-mediano.png" group-title="LOW CHANNEL",02 | AXN (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3840
+#EXTINF:-1 tvg-id="MX - Cinecanal" tvg-name="03 | CINECANAL (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinecanal-mediano.png" group-title="LOW CHANNEL",03 | CINECANAL (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3843
+#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="04 | CINEMAX (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinemax_latinoamerica-mediano.png" group-title="LOW CHANNEL",04 | CINEMAX (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3844
+#EXTINF:-1 tvg-id="I278.56905.zap2it.com" tvg-name="05 | DISCOVERY CHANNEL (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="LOW CHANNEL",05 | DISCOVERY CHANNEL (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3846
+#EXTINF:-1 tvg-id="" tvg-name="06 | DISCOVERY H&H (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_home_and_health_latinoamerica-mediano.png" group-title="LOW CHANNEL",06 | DISCOVERY H&H (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3847
+#EXTINF:-1 tvg-id="" tvg-name="07 | DISCOVERY TURBO (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_turbo-mediano.png" group-title="LOW CHANNEL",07 | DISCOVERY TURBO (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3848
+#EXTINF:-1 tvg-id="I208.60696.schedulesdirect.org" tvg-name="08 | ESPN (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_norte-mediano.png" group-title="LOW CHANNEL",08 | ESPN (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3851
+#EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="09 | ESPN 2 (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png" group-title="LOW CHANNEL",09 | ESPN 2 (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3852
+#EXTINF:-1 tvg-id="CO - ESPN 3" tvg-name="10 |  ESPN 3 (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="LOW CHANNEL",10 |  ESPN 3 (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3853
+#EXTINF:-1 tvg-id="" tvg-name="11 | STAR ACTION (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_action-mediano.png" group-title="LOW CHANNEL",11 | STAR ACTION (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3854
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="12 |  STAR CHANNEL (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_channel-mediano.png" group-title="LOW CHANNEL",12 |  STAR CHANNEL (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3855
+#EXTINF:-1 tvg-id="" tvg-name="13 |  STAR FUN (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_fun-mediano.png" group-title="LOW CHANNEL",13 |  STAR FUN (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3856
+#EXTINF:-1 tvg-id="" tvg-name="14 |  STAR LIFE (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_life-mediano.png" group-title="LOW CHANNEL",14 |  STAR LIFE (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3857
+#EXTINF:-1 tvg-id="" tvg-name="15 |  STAR HITS OPC 1 (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_hits-mediano.png" group-title="LOW CHANNEL",15 |  STAR HITS OPC 1 (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3858
+#EXTINF:-1 tvg-id="" tvg-name="16  | STAR HITS OPC 2 (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_hits-mediano.png" group-title="LOW CHANNEL",16  | STAR HITS OPC 2 (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3859
+#EXTINF:-1 tvg-id="" tvg-name="17 | STAR SERIES (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/star_series-mediano.png" group-title="LOW CHANNEL",17 | STAR SERIES (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3860
+#EXTINF:-1 tvg-id="I219.82547.zap2it.com" tvg-name="18 |  FOX SPORTS (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports-mediano.png" group-title="LOW CHANNEL",18 |  FOX SPORTS (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3861
+#EXTINF:-1 tvg-id="I618.59305.zap2it.com" tvg-name="19 |  FOX SPORTS 2 (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="LOW CHANNEL",19 |  FOX SPORTS 2 (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3862
+#EXTINF:-1 tvg-id="MX - FOX Sports 3" tvg-name="20 |  FOX SPORTS 3 (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fox_sports_2-mediano.png" group-title="LOW CHANNEL",20 |  FOX SPORTS 3 (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3863
+#EXTINF:-1 tvg-id="I248.58574.zap2it.com" tvg-name="21 |  FX (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/fx-mediano.png" group-title="LOW CHANNEL",21 |  FX (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3864
+#EXTINF:-1 tvg-id="259 - H2" tvg-name="22 |  H2 (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/history_2-mediano.png" group-title="LOW CHANNEL",22 |  H2 (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3865
+#EXTINF:-1 tvg-id="HBO" tvg-name="23  |  HBO (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_latinoamerica-mediano.png" group-title="LOW CHANNEL",23  |  HBO (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3866
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="24 |  HBO 2 (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_2_latinoamerica-mediano.png" group-title="LOW CHANNEL",24 |  HBO 2 (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3867
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="25 |  HBO FAMILY (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/hbo_family-mediano.png" group-title="LOW CHANNEL",25 |  HBO FAMILY (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3868
+#EXTINF:-1 tvg-id="I102.21436.tvguide.com" tvg-name="26 |  LAS ESTRELLAS (LOW)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_las_estrellas-mediano.png" group-title="LOW CHANNEL",26 |  LAS ESTRELLAS (LOW)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3869
+#EXTINF:-1 tvg-id="" tvg-name="01 | Showtime" tvg-logo="" group-title="SHOWTIME",01 | Showtime
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3870
+#EXTINF:-1 tvg-id="" tvg-name="02 | Showtime 2" tvg-logo="" group-title="SHOWTIME",02 | Showtime 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3871
+#EXTINF:-1 tvg-id="" tvg-name="03 | Showtime Beyond" tvg-logo="" group-title="SHOWTIME",03 | Showtime Beyond
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3872
+#EXTINF:-1 tvg-id="" tvg-name="04 | Showtime Extreme" tvg-logo="" group-title="SHOWTIME",04 | Showtime Extreme
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3873
+#EXTINF:-1 tvg-id="" tvg-name="05 | Showtime Showcase" tvg-logo="" group-title="SHOWTIME",05 | Showtime Showcase
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3874
+#EXTINF:-1 tvg-id="" tvg-name="06 | Showtime WEST" tvg-logo="" group-title="SHOWTIME",06 | Showtime WEST
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3875
+#EXTINF:-1 tvg-id="" tvg-name="07 | Showtime West HD_1080P" tvg-logo="" group-title="SHOWTIME",07 | Showtime West HD_1080P
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3876
+#EXTINF:-1 tvg-id="" tvg-name="08 | Showtime West HD" tvg-logo="" group-title="SHOWTIME",08 | Showtime West HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3877
+#EXTINF:-1 tvg-id="" tvg-name="09 | Showtime HD" tvg-logo="" group-title="SHOWTIME",09 | Showtime HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3878
+#EXTINF:-1 tvg-id="" tvg-name="10 | Showtime East HD" tvg-logo="" group-title="SHOWTIME",10 | Showtime East HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3879
+#EXTINF:-1 tvg-id="" tvg-name="11 | Showtime Beyond HD_1080P" tvg-logo="" group-title="SHOWTIME",11 | Showtime Beyond HD_1080P
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3880
+#EXTINF:-1 tvg-id="" tvg-name="12 | Showtime 2 Latino" tvg-logo="" group-title="SHOWTIME",12 | Showtime 2 Latino
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3881
+#EXTINF:-1 tvg-id="" tvg-name="13 | Showtime Extreme latino" tvg-logo="" group-title="SHOWTIME",13 | Showtime Extreme latino
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3882
+#EXTINF:-1 tvg-id="" tvg-name="PPV | StarMax UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | StarMax UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3884
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Edge UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Edge UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3885
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Cinema UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Cinema UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3886
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Comedy UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Comedy UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3887
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3888
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3889
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore Action UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore Action UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3890
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore Westerns UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore Westerns UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3891
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3892
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz In Black UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz In Black UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3893
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Kidz & Family UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Kidz & Family UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3894
+#EXTINF:-1 tvg-id="" tvg-name="PPV |  Star UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV |  Star UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3895
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz In Black UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz In Black UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3896
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Kidz & Family UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Kidz & Family UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3897
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Staz West UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Staz West UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3898
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz  UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz  UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3899
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Kids & Family | HD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Kids & Family | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3902
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore Suspense UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore Suspense UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3903
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3904
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Edge West UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Edge West UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3911
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz East UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz East UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3912
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Cinema West UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Cinema West UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3914
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Cinema UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Cinema UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3915
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Cinema East UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Cinema East UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3916
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Black UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Black UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3917
+#EXTINF:-1 tvg-id="" tvg-name="PPV | RetroPlex UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | RetroPlex UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3918
+#EXTINF:-1 tvg-id="" tvg-name="PPV | MovieMax UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | MovieMax UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3921
+#EXTINF:-1 tvg-id="" tvg-name="PPV | MoreMax UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | MoreMax UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3922
+#EXTINF:-1 tvg-id="" tvg-name="PPV | IndiePlex UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | IndiePlex UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3923
+#EXTINF:-1 tvg-id="" tvg-name="PPV | HBO Signature UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | HBO Signature UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3924
+#EXTINF:-1 tvg-id="" tvg-name="PPV | HBO 2 West UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | HBO 2 West UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3925
+#EXTINF:-1 tvg-id="" tvg-name="PPV | HBO 2 UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | HBO 2 UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3926
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Cinemax West UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Cinemax West UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3928
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Cinemax Action 2 UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Cinemax Action 2 UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3930
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Kids & Family UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Kids & Family UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3932
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3933
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore Western UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore Western UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3934
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore Suspense UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore Suspense UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3935
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore Family UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore Family UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3937
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Family UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Family UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3938
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore Classic UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore Classic UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3939
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore Black UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore Black UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3940
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Encore Action UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Encore Action UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3941
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Black UHD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Black UHD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3945
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Starz Cinema HD" tvg-logo="" group-title="CANALES STARZ! TV",PPV | Starz Cinema HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/3946
+#EXTINF:-1 tvg-id="" tvg-name="PARAGUAY | PARAGUAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Paraguay_TV_logo_2019.png/1200px-Paraguay_TV_logo_2019.png" group-title="PARAGUAY",PARAGUAY | PARAGUAY TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/4889
+#EXTINF:-1 tvg-id="" tvg-name="RU | Одинцово ТВ" tvg-logo="" group-title="RUSIA",RU | Одинцово ТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6217
+#EXTINF:-1 tvg-id="" tvg-name="RU | 1HD Music TV" tvg-logo="" group-title="RUSIA",RU | 1HD Music TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6221
+#EXTINF:-1 tvg-id="" tvg-name="RU | Между.Net (Междуреченск)" tvg-logo="" group-title="RUSIA",RU | Между.Net (Междуреченск)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6223
+#EXTINF:-1 tvg-id="" tvg-name="RU | ЛДПР ТВ" tvg-logo="" group-title="RUSIA",RU | ЛДПР ТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6224
+#EXTINF:-1 tvg-id="" tvg-name="RU | ЛДПР ТВ" tvg-logo="" group-title="RUSIA",RU | ЛДПР ТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6225
+#EXTINF:-1 tvg-id="" tvg-name="RU | Смайлик ТВ" tvg-logo="" group-title="RUSIA",RU | Смайлик ТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6226
+#EXTINF:-1 tvg-id="" tvg-name="RU | MTVmix (Уфа)" tvg-logo="" group-title="RUSIA",RU | MTVmix (Уфа)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6227
+#EXTINF:-1 tvg-id="" tvg-name="RU | Общественное Независимое Телевидение" tvg-logo="" group-title="RUSIA",RU | Общественное Независимое Телевидение
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6228
+#EXTINF:-1 tvg-id="" tvg-name="RU | КТК" tvg-logo="" group-title="RUSIA",RU | КТК
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6229
+#EXTINF:-1 tvg-id="" tvg-name="RU | Ocean TV" tvg-logo="" group-title="RUSIA",RU | Ocean TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6230
+#EXTINF:-1 tvg-id="" tvg-name="RU | Тольятти 24" tvg-logo="" group-title="RUSIA",RU | Тольятти 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6231
+#EXTINF:-1 tvg-id="" tvg-name="RU | РБК" tvg-logo="" group-title="RUSIA",RU | РБК
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6232
+#EXTINF:-1 tvg-id="" tvg-name="RU | Россия 1 HD" tvg-logo="" group-title="RUSIA",RU | Россия 1 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6233
+#EXTINF:-1 tvg-id="" tvg-name="RU | Москва 24" tvg-logo="" group-title="RUSIA",RU | Москва 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6234
+#EXTINF:-1 tvg-id="" tvg-name="RU | Россия К" tvg-logo="" group-title="RUSIA",RU | Россия К
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6235
+#EXTINF:-1 tvg-id="" tvg-name="RU | ACB TV" tvg-logo="" group-title="RUSIA",RU | ACB TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6236
+#EXTINF:-1 tvg-id="" tvg-name="RU | Рен ТВ HD" tvg-logo="" group-title="RUSIA",RU | Рен ТВ HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6237
+#EXTINF:-1 tvg-id="" tvg-name="RU | Рен ТВ" tvg-logo="" group-title="RUSIA",RU | Рен ТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6238
+#EXTINF:-1 tvg-id="" tvg-name="RU | Белгород 24" tvg-logo="" group-title="RUSIA",RU | Белгород 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6240
+#EXTINF:-1 tvg-id="" tvg-name="RU | Univer TV" tvg-logo="" group-title="RUSIA",RU | Univer TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6241
+#EXTINF:-1 tvg-id="" tvg-name="RU | Univer TV" tvg-logo="" group-title="RUSIA",RU | Univer TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6242
+#EXTINF:-1 tvg-id="" tvg-name="RU | Univer TV" tvg-logo="" group-title="RUSIA",RU | Univer TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6243
+#EXTINF:-1 tvg-id="" tvg-name="RU | Россия 1 HD" tvg-logo="" group-title="RUSIA",RU | Россия 1 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6244
+#EXTINF:-1 tvg-id="" tvg-name="RU | Радио Шансон" tvg-logo="" group-title="RUSIA",RU | Радио Шансон
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6245
+#EXTINF:-1 tvg-id="" tvg-name="RU | Радио Шансон" tvg-logo="" group-title="RUSIA",RU | Радио Шансон
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6246
+#EXTINF:-1 tvg-id="" tvg-name="RU | РБК" tvg-logo="" group-title="RUSIA",RU | РБК
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6247
+#EXTINF:-1 tvg-id="" tvg-name="RU | Каббала ТВ" tvg-logo="" group-title="RUSIA",RU | Каббала ТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6248
+#EXTINF:-1 tvg-id="" tvg-name="RU | Euronews" tvg-logo="" group-title="RUSIA",RU | Euronews
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6249
+#EXTINF:-1 tvg-id="" tvg-name="RU | АТВ" tvg-logo="" group-title="RUSIA",RU | АТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6250
+#EXTINF:-1 tvg-id="" tvg-name="RU | Мир Premium" tvg-logo="" group-title="RUSIA",RU | Мир Premium
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6253
+#EXTINF:-1 tvg-id="" tvg-name="RU | Мир 24" tvg-logo="" group-title="RUSIA",RU | Мир 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6254
+#EXTINF:-1 tvg-id="" tvg-name="RU | Мир" tvg-logo="" group-title="RUSIA",RU | Мир
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6255
+#EXTINF:-1 tvg-id="" tvg-name="RU | Мир (+4)" tvg-logo="" group-title="RUSIA",RU | Мир (+4)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6256
+#EXTINF:-1 tvg-id="" tvg-name="RU | Три Ангела" tvg-logo="" group-title="RUSIA",RU | Три Ангела
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6260
+#EXTINF:-1 tvg-id="" tvg-name="RU | МузСоюз" tvg-logo="" group-title="RUSIA",RU | МузСоюз
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6263
+#EXTINF:-1 tvg-id="" tvg-name="RU | МТВ (Волгоград)" tvg-logo="" group-title="RUSIA",RU | МТВ (Волгоград)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6264
+#EXTINF:-1 tvg-id="" tvg-name="RU | Известия" tvg-logo="" group-title="RUSIA",RU | Известия
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6265
+#EXTINF:-1 tvg-id="" tvg-name="RU | Известия" tvg-logo="" group-title="RUSIA",RU | Известия
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6266
+#EXTINF:-1 tvg-id="" tvg-name="RU | Хузур ТВ" tvg-logo="" group-title="RUSIA",RU | Хузур ТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6267
+#EXTINF:-1 tvg-id="" tvg-name="RU | Удмуртия" tvg-logo="" group-title="RUSIA",RU | Удмуртия
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6268
+#EXTINF:-1 tvg-id="" tvg-name="RU | Крик-ТВ" tvg-logo="" group-title="RUSIA",RU | Крик-ТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6269
+#EXTINF:-1 tvg-id="" tvg-name="RU | Союз" tvg-logo="" group-title="RUSIA",RU | Союз
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6270
+#EXTINF:-1 tvg-id="" tvg-name="RU | Красная линия" tvg-logo="" group-title="RUSIA",RU | Красная линия
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6271
+#EXTINF:-1 tvg-id="" tvg-name="RU | Башкортостан 24" tvg-logo="" group-title="RUSIA",RU | Башкортостан 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6272
+#EXTINF:-1 tvg-id="" tvg-name="RU | Губерния (Самара)" tvg-logo="" group-title="RUSIA",RU | Губерния (Самара)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6273
+#EXTINF:-1 tvg-id="" tvg-name="RU | Архыз 24" tvg-logo="" group-title="RUSIA",RU | Архыз 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6275
+#EXTINF:-1 tvg-id="" tvg-name="RU | Север (Нарьян-Мар)" tvg-logo="" group-title="RUSIA",RU | Север (Нарьян-Мар)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6276
+#EXTINF:-1 tvg-id="" tvg-name="RU | СГДФ 24 (Свердлов)" tvg-logo="" group-title="RUSIA",RU | СГДФ 24 (Свердлов)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6277
+#EXTINF:-1 tvg-id="" tvg-name="RU | Страна FM" tvg-logo="" group-title="RUSIA",RU | Страна FM
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6278
+#EXTINF:-1 tvg-id="" tvg-name="RU | Луч (Пуровск)" tvg-logo="" group-title="RUSIA",RU | Луч (Пуровск)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6279
+#EXTINF:-1 tvg-id="" tvg-name="RU | Луч (Пуровск)" tvg-logo="" group-title="RUSIA",RU | Луч (Пуровск)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6280
+#EXTINF:-1 tvg-id="" tvg-name="RU | Миллет" tvg-logo="" group-title="RUSIA",RU | Миллет
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6281
+#EXTINF:-1 tvg-id="" tvg-name="RU | Югра" tvg-logo="" group-title="RUSIA",RU | Югра
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6282
+#EXTINF:-1 tvg-id="" tvg-name="RU | Север (Нарьян-Мар)" tvg-logo="" group-title="RUSIA",RU | Север (Нарьян-Мар)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6283
+#EXTINF:-1 tvg-id="" tvg-name="RU | Север (Нарьян-Мар)" tvg-logo="" group-title="RUSIA",RU | Север (Нарьян-Мар)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6284
+#EXTINF:-1 tvg-id="" tvg-name="RU | Эхо TV (Рязань)" tvg-logo="" group-title="RUSIA",RU | Эхо TV (Рязань)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6285
+#EXTINF:-1 tvg-id="" tvg-name="RU | Министерство идей" tvg-logo="" group-title="RUSIA",RU | Министерство идей
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6286
+#EXTINF:-1 tvg-id="" tvg-name="RU | Ника ТВ" tvg-logo="" group-title="RUSIA",RU | Ника ТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6287
+#EXTINF:-1 tvg-id="" tvg-name="RU | НТМ (Мордовия)" tvg-logo="" group-title="RUSIA",RU | НТМ (Мордовия)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6288
+#EXTINF:-1 tvg-id="" tvg-name="RU | Губерния 33 (Владимир)" tvg-logo="" group-title="RUSIA",RU | Губерния 33 (Владимир)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6289
+#EXTINF:-1 tvg-id="" tvg-name="RU | Надежда" tvg-logo="" group-title="RUSIA",RU | Надежда
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6290
+#EXTINF:-1 tvg-id="" tvg-name="RU | ТВР 24 (Сергиев Посад)" tvg-logo="" group-title="RUSIA",RU | ТВР 24 (Сергиев Посад)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6291
+#EXTINF:-1 tvg-id="" tvg-name="RU | M2O TV" tvg-logo="" group-title="RUSIA",RU | M2O TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6293
+#EXTINF:-1 tvg-id="" tvg-name="RU | Мир Белагорья" tvg-logo="" group-title="RUSIA",RU | Мир Белагорья
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6294
+#EXTINF:-1 tvg-id="" tvg-name="RU | Luxury" tvg-logo="" group-title="RUSIA",RU | Luxury
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6295
+#EXTINF:-1 tvg-id="" tvg-name="RU | Nano TV" tvg-logo="" group-title="RUSIA",RU | Nano TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6296
+#EXTINF:-1 tvg-id="" tvg-name="RU | РБК" tvg-logo="" group-title="RUSIA",RU | РБК
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6297
+#EXTINF:-1 tvg-id="" tvg-name="RU | РБК" tvg-logo="" group-title="RUSIA",RU | РБК
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6298
+#EXTINF:-1 tvg-id="" tvg-name="RU | Ратник" tvg-logo="" group-title="RUSIA",RU | Ратник
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6299
+#EXTINF:-1 tvg-id="" tvg-name="RU | Новый мир" tvg-logo="" group-title="RUSIA",RU | Новый мир
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6300
+#EXTINF:-1 tvg-id="" tvg-name="RU | Матур ТВ HD" tvg-logo="" group-title="RUSIA",RU | Матур ТВ HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6301
+#EXTINF:-1 tvg-id="" tvg-name="RU | Московский образовательный" tvg-logo="" group-title="RUSIA",RU | Московский образовательный
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6302
+#EXTINF:-1 tvg-id="" tvg-name="RU | Настоящее время" tvg-logo="" group-title="RUSIA",RU | Настоящее время
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6303
+#EXTINF:-1 tvg-id="" tvg-name="RU | СТС Прима" tvg-logo="" group-title="RUSIA",RU | СТС Прима
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6304
+#EXTINF:-1 tvg-id="" tvg-name="RU | Русский Север (Вологда)" tvg-logo="" group-title="RUSIA",RU | Русский Север (Вологда)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6305
+#EXTINF:-1 tvg-id="" tvg-name="RU | RU TV HD" tvg-logo="" group-title="RUSIA",RU | RU TV HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6307
+#EXTINF:-1 tvg-id="" tvg-name="RU | Рен ТВ International" tvg-logo="" group-title="RUSIA",RU | Рен ТВ International
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6308
+#EXTINF:-1 tvg-id="" tvg-name="RU | ЮТВ (Чебоксары)" tvg-logo="" group-title="RUSIA",RU | ЮТВ (Чебоксары)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6310
+#EXTINF:-1 tvg-id="" tvg-name="RU | Ветта 24 (Пермь)" tvg-logo="" group-title="RUSIA",RU | Ветта 24 (Пермь)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6311
+#EXTINF:-1 tvg-id="" tvg-name="RU | Липецкое время" tvg-logo="" group-title="RUSIA",RU | Липецкое время
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6312
+#EXTINF:-1 tvg-id="" tvg-name="RU | Новое Телевидение" tvg-logo="" group-title="RUSIA",RU | Новое Телевидение
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6313
+#EXTINF:-1 tvg-id="" tvg-name="RU | Арис 24" tvg-logo="" group-title="RUSIA",RU | Арис 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6314
+#EXTINF:-1 tvg-id="" tvg-name="RU | Fox Life" tvg-logo="" group-title="RUSIA",RU | Fox Life
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6317
+#EXTINF:-1 tvg-id="" tvg-name="RU | Сочи 24 HD" tvg-logo="" group-title="RUSIA",RU | Сочи 24 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6318
+#EXTINF:-1 tvg-id="" tvg-name="RU | СТРК HD" tvg-logo="" group-title="RUSIA",RU | СТРК HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6319
+#EXTINF:-1 tvg-id="" tvg-name="RU | Татарстан-24" tvg-logo="" group-title="RUSIA",RU | Татарстан-24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6321
+#EXTINF:-1 tvg-id="" tvg-name="RU | Первый канал "Евразия"" tvg-logo="" group-title="RUSIA",RU | Первый канал "Евразия"
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6322
+#EXTINF:-1 tvg-id="" tvg-name="RU | Новый мир" tvg-logo="" group-title="RUSIA",RU | Новый мир
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6323
+#EXTINF:-1 tvg-id="" tvg-name="RU | Мир Белогорья" tvg-logo="" group-title="RUSIA",RU | Мир Белогорья
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6324
+#EXTINF:-1 tvg-id="" tvg-name="RU | Щелковское ТВ" tvg-logo="" group-title="RUSIA",RU | Щелковское ТВ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6325
+#EXTINF:-1 tvg-id="" tvg-name="RU | GlobalStar TV" tvg-logo="" group-title="RUSIA",RU | GlobalStar TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6326
+#EXTINF:-1 tvg-id="" tvg-name="RU | Жар Птица" tvg-logo="" group-title="RUSIA",RU | Жар Птица
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6327
+#EXTINF:-1 tvg-id="" tvg-name="RU | Туган Тел" tvg-logo="" group-title="RUSIA",RU | Туган Тел
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6328
+#EXTINF:-1 tvg-id="" tvg-name="RU | Астрахань 24" tvg-logo="" group-title="RUSIA",RU | Астрахань 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6329
+#EXTINF:-1 tvg-id="" tvg-name="RU | Астрахань 24" tvg-logo="" group-title="RUSIA",RU | Астрахань 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6330
+#EXTINF:-1 tvg-id="" tvg-name="RU | Астрахань 24" tvg-logo="" group-title="RUSIA",RU | Астрахань 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6331
+#EXTINF:-1 tvg-id="" tvg-name="RU | Астрахань.Ru TV" tvg-logo="" group-title="RUSIA",RU | Астрахань.Ru TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6332
+#EXTINF:-1 tvg-id="" tvg-name="RU | Астрахань.Ru TV" tvg-logo="" group-title="RUSIA",RU | Астрахань.Ru TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6333
+#EXTINF:-1 tvg-id="" tvg-name="RU | Астрахань.Ru TV" tvg-logo="" group-title="RUSIA",RU | Астрахань.Ru TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6334
+#EXTINF:-1 tvg-id="" tvg-name="RU | Астрахань.Ru Sport" tvg-logo="" group-title="RUSIA",RU | Астрахань.Ru Sport
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6335
+#EXTINF:-1 tvg-id="" tvg-name="RU | Астрахань.Ru Sport" tvg-logo="" group-title="RUSIA",RU | Астрахань.Ru Sport
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6336
+#EXTINF:-1 tvg-id="" tvg-name="RU | Астрахань.Ru Sport" tvg-logo="" group-title="RUSIA",RU | Астрахань.Ru Sport
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6337
+#EXTINF:-1 tvg-id="" tvg-name="RU | ТНВ Планета" tvg-logo="" group-title="RUSIA",RU | ТНВ Планета
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6338
+#EXTINF:-1 tvg-id="" tvg-name="RU | Страшное HD" tvg-logo="" group-title="RUSIA",RU | Страшное HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6339
+#EXTINF:-1 tvg-id="" tvg-name="RU | Губерния (Воронеж)" tvg-logo="" group-title="RUSIA",RU | Губерния (Воронеж)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6341
+#EXTINF:-1 tvg-id="" tvg-name="RU | Надежда" tvg-logo="" group-title="RUSIA",RU | Надежда
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6342
+#EXTINF:-1 tvg-id="" tvg-name="RU | Россия 1 (+6)" tvg-logo="" group-title="RUSIA",RU | Россия 1 (+6)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6343
+#EXTINF:-1 tvg-id="" tvg-name="RU | Россия 24" tvg-logo="" group-title="RUSIA",RU | Россия 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6344
+#EXTINF:-1 tvg-id="" tvg-name="RU | Дисконт" tvg-logo="" group-title="RUSIA",RU | Дисконт
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6345
+#EXTINF:-1 tvg-id="" tvg-name="RU | Союз" tvg-logo="" group-title="RUSIA",RU | Союз
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6346
+#EXTINF:-1 tvg-id="" tvg-name="RU | Матч!" tvg-logo="" group-title="RUSIA",RU | Матч!
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6347
+#EXTINF:-1 tvg-id="" tvg-name="RU | Россия К" tvg-logo="" group-title="RUSIA",RU | Россия К
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6348
+#EXTINF:-1 tvg-id="" tvg-name="RU | Россия 24" tvg-logo="" group-title="RUSIA",RU | Россия 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6349
+#EXTINF:-1 tvg-id="" tvg-name="RU | ОТР" tvg-logo="" group-title="RUSIA",RU | ОТР
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6350
+#EXTINF:-1 tvg-id="" tvg-name="RU | 360°" tvg-logo="" group-title="RUSIA",RU | 360°
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6353
+#EXTINF:-1 tvg-id="" tvg-name="RU | Сургут 24" tvg-logo="" group-title="RUSIA",RU | Сургут 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6354
+#EXTINF:-1 tvg-id="" tvg-name="RU | Небеса ТВ7" tvg-logo="" group-title="RUSIA",RU | Небеса ТВ7
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6355
+#EXTINF:-1 tvg-id="" tvg-name="RU | Афонтово (Красноярск)" tvg-logo="" group-title="RUSIA",RU | Афонтово (Красноярск)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6356
+#EXTINF:-1 tvg-id="" tvg-name="RU | ДОЖДЬ" tvg-logo="" group-title="RUSIA",RU | ДОЖДЬ
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6357
+#EXTINF:-1 tvg-id="" tvg-name="RU | Kronehit HD" tvg-logo="" group-title="RUSIA",RU | Kronehit HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6358
+#EXTINF:-1 tvg-id="" tvg-name="RU | Красная линия" tvg-logo="" group-title="RUSIA",RU | Красная линия
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6360
+#EXTINF:-1 tvg-id="" tvg-name="RU | RU.TV" tvg-logo="" group-title="RUSIA",RU | RU.TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6362
+#EXTINF:-1 tvg-id="" tvg-name="RU | A2" tvg-logo="" group-title="RUSIA",RU | A2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6363
+#EXTINF:-1 tvg-id="" tvg-name="RU | Мир 24" tvg-logo="" group-title="RUSIA",RU | Мир 24
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6364
+#EXTINF:-1 tvg-id="" tvg-name="RU | Телеканал 86 (Сургут)" tvg-logo="" group-title="RUSIA",RU | Телеканал 86 (Сургут)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6367
+#EXTINF:-1 tvg-id="" tvg-name="RU | С1 (Сургут)" tvg-logo="" group-title="RUSIA",RU | С1 (Сургут)
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6368
+#EXTINF:-1 tvg-id="" tvg-name="RU | Кубань 24 Орбита" tvg-logo="" group-title="RUSIA",RU | Кубань 24 Орбита
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/6369
+#EXTINF:-1 tvg-id="" tvg-name="AR | 5TV Corrientes" tvg-logo="https://t5satelital.com/theme/img/T5logo.png" group-title="ARGENTINA TDT",AR | 5TV Corrientes
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7400
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Fenix TV" tvg-logo="https://fenixteamtv.com/wp-content/uploads/2019/02/fenixtb.png" group-title="ARGENTINA TDT",ARG | Fenix TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7402
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Net TV" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" group-title="ARGENTINA TDT",ARG | Net TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7403
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Argentinísima Satelital" tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png" group-title="ARGENTINA TDT",ARG | Argentinísima Satelital
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7404
+#EXTINF:-1 tvg-id="" tvg-name="ARG | CANAL PROVINCIAL SAN MIGUEL" tvg-logo="https://3.bp.blogspot.com/-k-69wRRLNGs/VXG2xu6KOTI/AAAAAAAADWs/bTWILrtJRfk/s280/fe97b954724155e66a07f3ab75bfd475.png" group-title="ARGENTINA TDT",ARG | CANAL PROVINCIAL SAN MIGUEL
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7405
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Chacra TV" tvg-logo="https://forounivers.com/uploads/monthly_2017_06/large.logo-chacra-tv.png.d3b74a8d0073f7437ce6c0734ff6d95d.png" group-title="ARGENTINA TDT",ARG | Chacra TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7418
+#EXTINF:-1 tvg-id="" tvg-name="ARG | Ciudad TV Chaco" tvg-logo="https://chaco.tv/assets/general/logo-chacotv.png" group-title="ARGENTINA TDT",ARG | Ciudad TV Chaco
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7419
+#EXTINF:-1 tvg-id="" tvg-name="ARG | LA 90 FM" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/m9hxqyywcvch.png" group-title="ARGENTINA TDT",ARG | LA 90 FM
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7421
+#EXTINF:-1 tvg-id="" tvg-name="ARG | RTN Neuquén" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/shows_logos/81/ec/81ec6490-abbe-4675-bda3-25cb661b55b5.png" group-title="ARGENTINA TDT",ARG | RTN Neuquén
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7430
+#EXTINF:-1 tvg-id="" tvg-name="ARG | RTN Neuquén" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/shows_logos/81/ec/81ec6490-abbe-4675-bda3-25cb661b55b5.png" group-title="ARGENTINA TDT",ARG | RTN Neuquén
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7431
+#EXTINF:-1 tvg-id="" tvg-name="ARG | RTN Neuquén" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/shows_logos/81/ec/81ec6490-abbe-4675-bda3-25cb661b55b5.png" group-title="ARGENTINA TDT",ARG | RTN Neuquén
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7432
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TV Maná Córdoba" tvg-logo="https://tvmana-argentina.com/wp-content/uploads/2020/06/cropped-LOGO_TV_MANA_ARGENTINA_V1-1-396x108-1.png" group-title="ARGENTINA TDT",ARG | TV Maná Córdoba
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7436
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TV Maná Córdoba" tvg-logo="https://tvmana-argentina.com/wp-content/uploads/2020/06/cropped-LOGO_TV_MANA_ARGENTINA_V1-1-396x108-1.png" group-title="ARGENTINA TDT",ARG | TV Maná Córdoba
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/7437
+#EXTINF:-1 tvg-id="" tvg-name="24 | SINART 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TCRT_2017_Costa_Rica.png" group-title="COSTA RICA",24 | SINART 13
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125904
+#EXTINF:-1 tvg-id="" tvg-name="23 | TELETICA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="COSTA RICA",23 | TELETICA 7
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125905
+#EXTINF:-1 tvg-id="" tvg-name="22 | REPRETEL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="COSTA RICA",22 | REPRETEL 11
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125906
+#EXTINF:-1 tvg-id="" tvg-name="21 | REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" group-title="COSTA RICA",21 | REPRETEL 6
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125907
+#EXTINF:-1 tvg-id="" tvg-name="20 | REPRETEL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png" group-title="COSTA RICA",20 | REPRETEL 4
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125908
+#EXTINF:-1 tvg-id="" tvg-name="21 | Santa Cruz Tv" tvg-logo="https://ipiauonline.com.br/wp-content/uploads/2017/11/tv-santa-cruz-rede-bahia.png" group-title="COSTA RICA",21 | Santa Cruz Tv
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125909
+#EXTINF:-1 tvg-id="" tvg-name="19 | STV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/1280px-STV_logo_2014.png" group-title="COSTA RICA",19 | STV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125910
+#EXTINF:-1 tvg-id="" tvg-name="18 | Tv Sur canal 9" tvg-logo="" group-title="COSTA RICA",18 | Tv Sur canal 9
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125911
+#EXTINF:-1 tvg-id="" tvg-name="16| Teleuno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TeleUno_1997.png" group-title="COSTA RICA",16| Teleuno
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125913
+#EXTINF:-1 tvg-id="" tvg-name="15 | TSM 2" tvg-logo="https://c0.klipartz.com/pngpicture/621/946/sticker-png-stadtwerke-muhlacker-gmbh-forum-netztechnik-netzbetrieb-natural-gas-drinking-water-organization-aeronaves-tsm-official-website-blue-text-trademark-logo-industry-thumbnail.png" group-title="COSTA RICA",15 | TSM 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125914
+#EXTINF:-1 tvg-id="" tvg-name="14 | ETVCR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="COSTA RICA",14 | ETVCR
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125915
+#EXTINF:-1 tvg-id="" tvg-name="13 | Teletica 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="COSTA RICA",13 | Teletica 7
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125916
+#EXTINF:-1 tvg-id="" tvg-name="11 | Telered" tvg-logo="https://revistasumma.com/wp-content/uploads/2019/12/68fff78c3cb93ba949ccc7f4a095614a-1080x675.png" group-title="COSTA RICA",11 | Telered
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125917
+#EXTINF:-1 tvg-id="" tvg-name="10 | Màstv" tvg-logo="https://pbs.twimg.com/profile_images/484339936644964352/LjGD2YP9.png" group-title="COSTA RICA",10 | Màstv
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125918
+#EXTINF:-1 tvg-id="" tvg-name="09 | TIGO SPORTS" tvg-logo="http://ultraxtvextreme.com:8000/images/064bc51f4e9c08c634cb1e7eeb0f7333.png" group-title="COSTA RICA",09 | TIGO SPORTS
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125919
+#EXTINF:-1 tvg-id="" tvg-name="08 | TIGO SPORTS 2 " tvg-logo="" group-title="COSTA RICA",08 | TIGO SPORTS 2 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125920
+#EXTINF:-1 tvg-id="" tvg-name="07 | Canal Musical" tvg-logo="" group-title="COSTA RICA",07 | Canal Musical
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125922
+#EXTINF:-1 tvg-id="" tvg-name="06 | FUTV GRITALO" tvg-logo="" group-title="COSTA RICA",06 | FUTV GRITALO
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125923
+#EXTINF:-1 tvg-id="" tvg-name="05 | ANEXION TV 36" tvg-logo="" group-title="COSTA RICA",05 | ANEXION TV 36
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125924
+#EXTINF:-1 tvg-id="" tvg-name="01| HON-TELECEIBA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/teleceiba.png" group-title="HONDURAS",01| HON-TELECEIBA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125925
+#EXTINF:-1 tvg-id="" tvg-name="02| HON-CHOLUSAT" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Cholusat-Sur-Canal-36-en-vivo-Online-324x160.png" group-title="HONDURAS",02| HON-CHOLUSAT
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125926
+#EXTINF:-1 tvg-id="" tvg-name="03| HON-MAYA TV" tvg-logo="https://hondu.tv/wp-content/uploads/2016/10/Canal-maya-tv.png" group-title="HONDURAS",03| HON-MAYA TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125927
+#EXTINF:-1 tvg-id="" tvg-name="04| HON-Que Hubo TV" tvg-logo="https://qhubotv.com/wp-content/uploads/2020/03/1Mesa-de-trabajo-1.png" group-title="HONDURAS",04| HON-Que Hubo TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125928
+#EXTINF:-1 tvg-id="" tvg-name="05| HON-Globo tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/GLOBO2021.png" group-title="HONDURAS",05| HON-Globo tv
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125929
+#EXTINF:-1 tvg-id="" tvg-name="06| Eben Ezer Honduras" tvg-logo="https://1.bp.blogspot.com/-_0Nrw9NOw8c/XRDXrzt4jWI/AAAAAAAAH3s/bTzQrrVDPKgY-glvRMq3fz1byAiI4VBnACLcBGAs/s210/Canal%2BEbenezer.png" group-title="HONDURAS",06| Eben Ezer Honduras
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125930
+#EXTINF:-1 tvg-id="" tvg-name="07| VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/VTV.png" group-title="HONDURAS",07| VTV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125931
+#EXTINF:-1 tvg-id="" tvg-name="08| HON_TELESISTEMA" tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="HONDURAS",08| HON_TELESISTEMA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125932
+#EXTINF:-1 tvg-id="" tvg-name="09| HON_TELECADENA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Telecadena-7-y-4-en-vivo-Online.png" group-title="HONDURAS",09| HON_TELECADENA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125933
+#EXTINF:-1 tvg-id="" tvg-name="10| HON_SUYAPA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/suyapa-tv.png" group-title="HONDURAS",10| HON_SUYAPA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125934
+#EXTINF:-1 tvg-id="" tvg-name="11| HON_HCH" tvg-logo="https://hondudiario.com/wp-content/uploads/2019/08/HCH.png" group-title="HONDURAS",11| HON_HCH
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125935
+#EXTINF:-1 tvg-id="" tvg-name="12| HON_CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="HONDURAS",12| HON_CANAL 5
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125936
+#EXTINF:-1 tvg-id="" tvg-name="13| HON_CANAL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_11_HN_logo_2010.png" group-title="HONDURAS",13| HON_CANAL 11
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125937
+#EXTINF:-1 tvg-id="" tvg-name="PARAGUAY | FARRA TV PLAY " tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/75/d1/f5/75d1f5c5-ff25-277b-2e8c-97af7911a18d/mzl.rdsodagk.jpg/1200x630wa.png" group-title="PARAGUAY",PARAGUAY | FARRA TV PLAY 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125964
+#EXTINF:-1 tvg-id="" tvg-name="PARAGUAY | UNICANAL HD " tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="PARAGUAY",PARAGUAY | UNICANAL HD 
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125965
+#EXTINF:-1 tvg-id="" tvg-name="----- NICARAGUA ------" tvg-logo="" group-title="NICARAGUA",----- NICARAGUA ------
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125966
+#EXTINF:-1 tvg-id="" tvg-name="01 | CANAL 10 NICARAGUA" tvg-logo="https://1.bp.blogspot.com/-dCX-NBEP-To/XFJ7jdkdjHI/AAAAAAAAFLw/1eMUnByAm4knwbvirJTSq5xS6XFlYWsBQCLcBGAs/s1600/Canal_10_Nicaragua_1997.png" group-title="NICARAGUA",01 | CANAL 10 NICARAGUA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125967
+#EXTINF:-1 tvg-id="" tvg-name="02 | CANAL 2 NICARAGUA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Televicentro-en-vivo-Online.png" group-title="NICARAGUA",02 | CANAL 2 NICARAGUA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125968
+#EXTINF:-1 tvg-id="" tvg-name="03 | CANAL 8 NICARAGUA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TN8-Telenica-en-vivo-Online.png" group-title="NICARAGUA",03 | CANAL 8 NICARAGUA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125969
+#EXTINF:-1 tvg-id="" tvg-name="04 | Canal 23 NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/CDNN_23_Nicaragua.png" group-title="NICARAGUA",04 | Canal 23 NICARAGUA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125970
+#EXTINF:-1 tvg-id="" tvg-name="05 | Canal 13 NICARAGUA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="NICARAGUA",05 | Canal 13 NICARAGUA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125971
+#EXTINF:-1 tvg-id="" tvg-name="06 | Canal 12 NICARAGUA" tvg-logo="https://seeklogo.com/images/N/nicavision-canal-12-logo-B92DA2E4B4-seeklogo.com.png" group-title="NICARAGUA",06 | Canal 12 NICARAGUA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125972
+#EXTINF:-1 tvg-id="" tvg-name="07 | Canal 11 NICARAGUA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-11-Nicaragua-en-vivo-Online.png" group-title="NICARAGUA",07 | Canal 11 NICARAGUA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125973
+#EXTINF:-1 tvg-id="" tvg-name="08 | CANAL 9 NICARAGUA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/09/Canal-9-Nicaragua-en-vivo-Online.png" group-title="NICARAGUA",08 | CANAL 9 NICARAGUA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125974
+#EXTINF:-1 tvg-id="" tvg-name="09 | Canal 6 NICARAGUA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Nicaragua-en-vivo-Online.png" group-title="NICARAGUA",09 | Canal 6 NICARAGUA
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125975
+#EXTINF:-1 tvg-id="" tvg-name="10 | NICARAGUA | Canal 4" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Nicaragua-en-vivo-Online.png" group-title="NICARAGUA",10 | NICARAGUA | Canal 4
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/125976
+#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Wipr Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2ACM2uvZsbJiLOC_pmKbXzPALd9tHDO_4yHXYNXMedcW9plLu" group-title="PUERTO RICO",Puerto Rico|| Wipr Canal 6
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126527
+#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Teleoro Canal 13" tvg-logo="" group-title="PUERTO RICO",Puerto Rico|| Teleoro Canal 13
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126528
+#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Wapa Opc 2." tvg-logo="" group-title="PUERTO RICO",Puerto Rico|| Wapa Opc 2.
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126530
+#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Wapa" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/wapa.png" group-title="PUERTO RICO",Puerto Rico|| Wapa
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126531
+#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Telemundo" tvg-logo="https://media.tvalacarta.info/canales/256x256/telemundopr.png" group-title="PUERTO RICO",Puerto Rico|| Telemundo
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126532
+#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Mega Tv" tvg-logo="https://www.spanishbroadcasting.com/wp-content/uploads/sites/5/2016/11/megatv-thumbs-350x350.jpg" group-title="PUERTO RICO",Puerto Rico|| Mega Tv
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126535
+#EXTINF:-1 tvg-id="" tvg-name="Puerto Rico|| Univision" tvg-logo="https://pbs.twimg.com/profile_images/1149708692088135681/VQyj0BOx_400x400.png" group-title="PUERTO RICO",Puerto Rico|| Univision
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126536
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR  | VTV Canal 35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="EL SALVADOR",EL SALVADOR  | VTV Canal 35
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126539
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 4
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126540
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | Canal 19" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador-en-vivo-Online.png" group-title="EL SALVADOR",EL SALVADOR | Canal 19
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126541
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | Canal  21" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-21-El-Salvador-en-vivo-Online.png" group-title="EL SALVADOR",EL SALVADOR | Canal  21
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126542
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR |  CANAL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="EL SALVADOR",EL SALVADOR |  CANAL 6
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126543
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126544
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Canal_12_El_Salvador_2010.png/1200px-Canal_12_El_Salvador_2010.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 12
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126545
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | VTV CANAL 35 HD" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | VTV CANAL 35 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126546
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | CANAL 21" tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-21-nacional_m.png" group-title="EL SALVADOR",EL SALVADOR | CANAL 21
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126548
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | NEXT TV 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Nexnew.png" group-title="PANAMA",PANAMA | NEXT TV 21
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126561
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | MAS TV 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png" group-title="PANAMA",PANAMA | MAS TV 23
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126562
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | RPC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rpc.svg/1200px-Rpc.svg.png" group-title="PANAMA",PANAMA | RPC 4
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126563
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVN 2" tvg-logo="https://pbs.twimg.com/profile_images/1109194713968586752/uFZNIScp.jpg" group-title="PANAMA",PANAMA | TVN 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126564
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TELEMETRO 13" tvg-logo="https://seeklogo.com/images/T/Telemetro-logo-0E351C1B67-seeklogo.com.jpg" group-title="PANAMA",PANAMA | TELEMETRO 13
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126565
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TVN_Chile_Logo.svg/400px-TVN_Chile_Logo.svg.png" group-title="PANAMA",PANAMA | TVN
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126566
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA| TV MAX 9" tvg-logo="http://3.bp.blogspot.com/-R9Hm2RByK3s/UT9EEr2VftI/AAAAAAAABjw/-44mZS4xRXQ/s1600/tvmax.png" group-title="PANAMA",PANAMA| TV MAX 9
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126567
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | SER TV" tvg-logo="https://sertv.gob.pa/wp-content/uploads/2018/10/log_sertv-80-retina.png" group-title="PANAMA",PANAMA | SER TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126568
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CANAL 13" tvg-logo="http://www.trecetv.es//images/epg/logo-epg.png" group-title="PANAMA",PANAMA | CANAL 13
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126569
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CANAL 4" tvg-logo="https://pbs.twimg.com/profile_images/1180225973175889920/An4jQE_N.png" group-title="PANAMA",PANAMA | CANAL 4
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126570
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CANAL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Autoridad_del_Canal_de_Panama_-_LOGOTIPO_-_2016.png" group-title="PANAMA",PANAMA | CANAL 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126571
+#EXTINF:-1 tvg-id="" tvg-name="31 | EXITOSA NOTICIAS | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="PERU",31 | EXITOSA NOTICIAS | HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126668
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |NPO 1" tvg-logo="" group-title="HOLANDA ",HOLANDA |NPO 1
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126935
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |NPO 2" tvg-logo="" group-title="HOLANDA ",HOLANDA |NPO 2
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126936
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |NPO 3" tvg-logo="" group-title="HOLANDA ",HOLANDA |NPO 3
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126937
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |NPO 101 HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |NPO 101 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126938
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |NPO 1 Extra HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |NPO 1 Extra HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126939
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |NPO 2 Extra HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |NPO 2 Extra HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126940
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |RTL 4" tvg-logo="" group-title="HOLANDA ",HOLANDA |RTL 4
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126941
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |RTL 5 HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |RTL 5 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126942
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |SBS 9 HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |SBS 9 HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126943
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Net 5" tvg-logo="" group-title="HOLANDA ",HOLANDA |Net 5
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126944
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Veronica HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Veronica HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126945
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |RTL Z" tvg-logo="" group-title="HOLANDA ",HOLANDA |RTL Z
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126946
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |NPO Best Zapp Xtra" tvg-logo="" group-title="HOLANDA ",HOLANDA |NPO Best Zapp Xtra
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126947
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |NPO Nieuws" tvg-logo="" group-title="HOLANDA ",HOLANDA |NPO Nieuws
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126948
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Comedy Central HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Comedy Central HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126949
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Nickelodeon HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Nickelodeon HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126950
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Fox HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Fox HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126951
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆☆ HOLANDA |Kinderen ☆▆ ▅ ▄ ▂" tvg-logo="" group-title="HOLANDA ",▂ ▄ ▅ ▆☆ HOLANDA |Kinderen ☆▆ ▅ ▄ ▂
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126952
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |NickToons HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |NickToons HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126953
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Ketnet HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Ketnet HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126954
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Disney Channel HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Disney Channel HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126955
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Cartoon Network HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Cartoon Network HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126956
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Boomerang HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Boomerang HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126957
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |RTL Telekids HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |RTL Telekids HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126958
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Nick Jr. HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Nick Jr. HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126959
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Baby TV" tvg-logo="" group-title="HOLANDA ",HOLANDA |Baby TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126960
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆☆ HOLANDA |Muzik ☆▆ ▅ ▄ ▂" tvg-logo="" group-title="HOLANDA ",▂ ▄ ▅ ▆☆ HOLANDA |Muzik ☆▆ ▅ ▄ ▂
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126961
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |192TV" tvg-logo="" group-title="HOLANDA ",HOLANDA |192TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126962
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |MTV HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |MTV HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126963
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |TV Oranje" tvg-logo="" group-title="HOLANDA ",HOLANDA |TV Oranje
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126965
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |100% NL TV" tvg-logo="" group-title="HOLANDA ",HOLANDA |100% NL TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126966
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Slam!TV" tvg-logo="" group-title="HOLANDA ",HOLANDA |Slam!TV
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126967
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆☆ HOLANDA |Movies ☆▆ ▅ ▄ ▂" tvg-logo="" group-title="HOLANDA ",▂ ▄ ▅ ▆☆ HOLANDA |Movies ☆▆ ▅ ▄ ▂
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126968
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Film 1 Premiere HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Film 1 Premiere HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126969
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Film 1 Action HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Film 1 Action HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126970
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Film 1 Action HD Backup" tvg-logo="" group-title="HOLANDA ",HOLANDA |Film 1 Action HD Backup
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126971
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Film 1 Drama" tvg-logo="" group-title="HOLANDA ",HOLANDA |Film 1 Drama
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126972
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Film 1 Family" tvg-logo="" group-title="HOLANDA ",HOLANDA |Film 1 Family
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126973
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆☆ HOLANDA |Entertainment☆▆ ▅ ▄ ▂" tvg-logo="" group-title="HOLANDA ",▂ ▄ ▅ ▆☆ HOLANDA |Entertainment☆▆ ▅ ▄ ▂
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126974
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |RTL Lounge" tvg-logo="" group-title="HOLANDA ",HOLANDA |RTL Lounge
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126975
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |RTL Crime Hd" tvg-logo="" group-title="HOLANDA ",HOLANDA |RTL Crime Hd
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126976
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Crime & Investigation HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Crime & Investigation HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126977
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |E Entertainment HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |E Entertainment HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126978
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |TLC HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |TLC HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126979
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |24 Kitchen HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |24 Kitchen HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126980
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |Ons HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |Ons HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126981
+#EXTINF:-1 tvg-id="" tvg-name="HOLANDA |BBC Entertainment HD" tvg-logo="" group-title="HOLANDA ",HOLANDA |BBC Entertainment HD
+http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/126982
