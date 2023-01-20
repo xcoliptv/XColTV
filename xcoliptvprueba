@@ -2,48 +2,70 @@
 
 #EXTINF:-1,70s Hits
 http://177.234.242.189:50032/play/a03t/index.m3u8
+
 #EXTINF:-1,80s Hits
 http://177.234.242.189:50032/play/a03u/index.m3u8
+
 #EXTINF:-1,AE Mundo
 http://177.234.242.189:50032/play/a03n/index.m3u8
+
 #EXTINF:-1,AXN
 http://177.234.242.189:50032/play/a05w/index.m3u8
+
 #EXTINF:-1,AZ Cinema HD
 http://177.234.242.189:50032/play/a00t/index.m3u8
+
 #EXTINF:-1,America TV PY
 http://177.234.242.189:50032/play/a04k/index.m3u8
+
 #EXTINF:-1,Animal Planet
 http://177.234.242.189:50032/play/a03e/index.m3u8
+
 #EXTINF:-1,Animal Planet HD
 http://177.234.242.189:50032/play/a00x/index.m3u8
+
 #EXTINF:-1,BabyFirst
 http://177.234.242.189:50032/play/a02o/index.m3u8
+
 #EXTINF:-1,CDF HD
 http://177.234.242.189:50032/play/a011/index.m3u8
+
 #EXTINF:-1,CNN Chile
 http://177.234.242.189:50032/play/a02e/index.m3u8
+
 #EXTINF:-1,CNN Espanol
 http://177.234.242.189:50032/play/a02s/index.m3u8
+
 #EXTINF:-1,CNT SPORTS SD
 http://177.234.242.189:50032/play/a06f/index.m3u8
+
 #EXTINF:-1,Canal Claro
 http://177.234.242.189:50032/play/a048/index.m3u8
+
 #EXTINF:-1,Cartoon Network
 http://177.234.242.189:50032/play/a02h/index.m3u8
+
 #EXTINF:-1,Cartoon Network HD
 http://177.234.242.189:50032/play/a00p/index.m3u8
+
 #EXTINF:-1,Cinecanal
 http://177.234.242.189:50032/play/a029/index.m3u8
+
 #EXTINF:-1,Cinecanal HD
 http://177.234.242.189:50032/play/a00g/index.m3u8
+
 #EXTINF:-1,Cinemax
 http://177.234.242.189:50032/play/a05u/index.m3u8
+
 #EXTINF:-1,Claro Cinema
 http://177.234.242.189:50032/play/a065/index.m3u8
+
 #EXTINF:-1,Claro Sports
 http://177.234.242.189:50032/play/a02j/index.m3u8
+
 #EXTINF:-1,Classic Rock
 http://177.234.242.189:50032/play/a03s/index.m3u8
+
 #EXTINF:-1,Discovery Channel
 http://177.234.242.189:50032/play/a03d/index.m3u8
 #EXTINF:-1,Discovery Kids
